@@ -40,3 +40,4 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
 
+# Pages deployment is managed
