@@ -1,0 +1,11 @@
+{
+  "name": "ai-radar-board",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "serve": "npx serve ."
+  }
+}
+
