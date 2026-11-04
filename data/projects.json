@@ -2,315 +2,314 @@
   "updatedAt": "2026-11-04",
   "projects": [
     {
-      "name": "TokenEconomizer",
-      "url": "https://github.com/microsoft/TokenEconomizer",
-      "category": "开发框架",
-      "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
-      "tags": [
-        "agentic ai",
-        "agentic coding",
-        "ai coding"
-      ],
-      "stars": 4726,
-      "growth": 0
-    },
-    {
-      "name": "awesome-rsi",
-      "url": "https://github.com/lobehub/awesome-rsi",
-      "category": "开发框架",
-      "description": "A curated research map of Recursive Self-Improvement (RSI): models, agent…",
-      "tags": [
-        "agi",
-        "ai",
-        "ai agents"
-      ],
-      "stars": 941,
-      "growth": 0
-    },
-    {
-      "name": "Locals",
-      "url": "https://github.com/Generated-Computers/Locals",
-      "category": "模型运行",
-      "description": "Run many AI agents at once on your Mac, up to 3x faster.",
-      "tags": [
-        "agents",
-        "apple silicon",
-        "artificial intelligence"
-      ],
-      "stars": 451,
-      "growth": 0
-    },
-    {
-      "name": "awesome-jev-live",
-      "url": "https://github.com/wh000wh000/awesome-jev-live",
-      "category": "开发框架",
-      "description": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP too…",
-      "tags": [
-        "ai agents",
-        "artificial intelligence",
-        "awesome"
-      ],
-      "stars": 377,
-      "growth": 0
-    },
-    {
-      "name": "test-model-thing",
-      "url": "https://github.com/jrz97619761/test-model-thing",
-      "category": "AI 工具",
-      "description": "A small proof-of-concept language model (not an LLM) that aims to incorpo…",
-      "tags": [
-        "ai",
-        "apple silicon",
-        "artificial intelligence"
-      ],
-      "stars": 327,
-      "growth": 0
-    },
-    {
-      "name": "FirstLight_CR",
-      "url": "https://github.com/Jaasssoooonnnnn/FirstLight_CR",
-      "category": "开发框架",
-      "description": "Offline Clash Royale AI agent research: native simulation, imitation lear…",
-      "tags": [
-        "artificial intelligence",
-        "clash royale",
-        "deep learning"
-      ],
-      "stars": 230,
-      "growth": 0
-    },
-    {
-      "name": "awesome-jev",
-      "url": "https://github.com/kraayenjon/awesome-jev",
-      "category": "开发框架",
-      "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is Ty…",
-      "tags": [
-        "agents",
-        "ai",
-        "ai agents"
-      ],
-      "stars": 204,
-      "growth": 0
-    },
-    {
-      "name": "worldmodels101",
-      "url": "https://github.com/NiluK/worldmodels101",
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "category": "生成式媒体",
-      "description": "Free interactive course on world models in AI. Nine visual chapters on pr…",
-      "tags": [
-        "artificial intelligence",
-        "deep learning",
-        "education"
-      ],
-      "stars": 202,
-      "growth": 0
-    },
-    {
-      "name": "OpenFlow",
-      "url": "https://github.com/SeeRay11/OpenFlow",
-      "category": "开发框架",
-      "description": "OpenFlow — a visual builder for multi-agent AI workflows, built on the op…",
-      "tags": [
-        "agent orchestration",
-        "ai",
-        "ai agents"
-      ],
-      "stars": 173,
-      "growth": 0
-    },
-    {
-      "name": "PocketStrike",
-      "url": "https://github.com/AbuZar-Ansarii/PocketStrike",
-      "category": "生成式媒体",
-      "description": "PocketStrike is a privacy-first mobile AI workstation. It combines zero-c…",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
       "tags": [
         "agentic ai",
         "agents",
         "ai"
       ],
-      "stars": 164,
+      "stars": 187891,
       "growth": 0
     },
     {
-      "name": "cve-intel",
-      "url": "https://github.com/Fazmin/cve-intel",
-      "category": "开发框架",
-      "description": "Local security intelligence for CVE triage - 40 data sources and 41 tools…",
-      "tags": [
-        "artificial intelligence",
-        "cisa kev",
-        "cve"
-      ],
-      "stars": 133,
-      "growth": 0
-    },
-    {
-      "name": "PAKGOV-RAG-project",
-      "url": "https://github.com/salikhussain71-code/PAKGOV-RAG-project",
-      "category": "开发框架",
-      "description": "Research project on bilingual Urdu-English retrieval-augmented generation…",
-      "tags": [
-        "artificial intelligence",
-        "information retrieval",
-        "legal nlp"
-      ],
-      "stars": 130,
-      "growth": 0
-    },
-    {
-      "name": "Recursia",
-      "url": "https://github.com/cocacola-lab/Recursia",
-      "category": "开发框架",
-      "description": "Recursive self-improvement for robot manipulation, with real-robot experi…",
-      "tags": [
-        "agentic robotics",
-        "artificial intelligence",
-        "embodied intelligence"
-      ],
-      "stars": 114,
-      "growth": 0
-    },
-    {
-      "name": "local-code-community",
-      "url": "https://github.com/drawthingsai/local-code-community",
-      "category": "模型运行",
-      "description": "Source code of Local Code, a private AI agent for Mac, iPad and iPhone. R…",
+      "name": "prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "category": "AI 应用",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from…",
       "tags": [
         "ai",
-        "ai agent",
-        "apple silicon"
+        "artificial intelligence",
+        "awesome list"
       ],
-      "stars": 113,
+      "stars": 175753,
       "growth": 0
     },
     {
-      "name": "Hacker",
-      "url": "https://github.com/TaroYamada08/Hacker",
-      "category": "AI 工具",
-      "description": "This repository is maintained by Taro and includes thousands of resources…",
+      "name": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "category": "开发框架",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything …",
       "tags": [
         "ai",
-        "ai safety",
-        "artificial intelligence"
+        "ai agents",
+        "ai memory"
       ],
-      "stars": 110,
+      "stars": 112381,
       "growth": 0
     },
     {
-      "name": "mewu_ai",
-      "url": "https://github.com/abnste/mewu_ai",
+      "name": "LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "category": "AI 应用",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "attention mechanism"
+      ],
+      "stars": 107792,
+      "growth": 0
+    },
+    {
+      "name": "Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
       "category": "生成式媒体",
-      "description": "MewuAI 喵呜AI | 跨平台开源 AI 屏幕协作软件：AI 圈选重点、截图问答、离线 OCR、原位翻译、录屏与视频标注。Cross-plat…",
-      "tags": [
-        "ai screenshot",
-        "annotation",
-        "artificial intelligence"
-      ],
-      "stars": 102,
-      "growth": 0
-    },
-    {
-      "name": "Veda",
-      "url": "https://github.com/vahmoh/Veda",
-      "category": "开发框架",
-      "description": "The Agentic-Native Operating System",
-      "tags": [
-        "agentic ai",
-        "agentic operating system",
-        "ai agent"
-      ],
-      "stars": 102,
-      "growth": 0
-    },
-    {
-      "name": "ai-charter",
-      "url": "https://github.com/mrtinkz/ai-charter",
-      "category": "开发框架",
-      "description": "Universal AI Charter: plain-language governance principles and a public c…",
+      "description": "real time face swap and one-click video deepfake with only a single image",
       "tags": [
         "ai",
-        "ai agent",
-        "ai agents"
+        "ai deep fake",
+        "ai face"
       ],
-      "stars": 99,
+      "stars": 97611,
       "growth": 0
     },
     {
-      "name": "ai-native-sdlc",
-      "url": "https://github.com/bashebr/ai-native-sdlc",
+      "name": "OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
       "category": "开发框架",
-      "description": "Reusable Codex + Claude Code skill and plugin implementing Anthropic's AI…",
+      "description": "🙌 OpenHands: AI-Driven Development",
       "tags": [
-        "agentic ai",
-        "ai native development",
-        "ai native sdlc"
+        "agent",
+        "artificial intelligence",
+        "chatgpt"
       ],
-      "stars": 94,
+      "stars": 92615,
       "growth": 0
     },
     {
-      "name": "PDFMathReader",
-      "url": "https://github.com/PDFMathTranslate/PDFMathReader",
-      "category": "AI 工具",
-      "description": "Read scientific documents in your language, in realtime, on any platform.…",
+      "name": "strix",
+      "url": "https://github.com/usestrix/strix",
+      "category": "开发框架",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulner…",
+      "tags": [
+        "agents",
+        "ai hacking",
+        "ai penetration testing"
+      ],
+      "stars": 73660,
+      "growth": 0
+    },
+    {
+      "name": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "category": "生成式媒体",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
       "tags": [
         "ai",
         "artificial intelligence",
-        "electron"
+        "cnn"
       ],
-      "stars": 80,
+      "stars": 70551,
       "growth": 0
     },
     {
-      "name": "KESTREL",
-      "url": "https://github.com/Irsyadmr354/KESTREL",
+      "name": "minimind",
+      "url": "https://github.com/jingyaogong/minimind",
       "category": "AI 工具",
-      "description": "Jailbreak system prompt. One file, one speaker, no second-guessing. Paste…",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "tags": [
-        "ai jailbreak",
-        "ai jailbreak universal",
+        "artificial intelligence",
+        "large language model"
+      ],
+      "stars": 64857,
+      "growth": 0
+    },
+    {
+      "name": "kong",
+      "url": "https://github.com/Kong/kong",
+      "category": "AI 工具",
+      "description": "🦍 The API and AI Gateway",
+      "tags": [
+        "ai",
+        "ai gateway",
+        "api gateway"
+      ],
+      "stars": 44349,
+      "growth": 0
+    },
+    {
+      "name": "Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "category": "开发框架",
+      "description": "Vane is an AI-powered answering engine.",
+      "tags": [
+        "ai agents",
+        "ai search engine",
+        "answering engine"
+      ],
+      "stars": 38011,
+      "growth": 0
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "category": "生成式媒体",
+      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with c…",
+      "tags": [
+        "artificial intelligence",
+        "artificial intelligence projects",
+        "awesome"
+      ],
+      "stars": 37627,
+      "growth": 0
+    },
+    {
+      "name": "DragGAN",
+      "url": "https://github.com/XingangPan/DragGAN",
+      "category": "生成式媒体",
+      "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+      "tags": [
+        "artificial intelligence",
+        "generative adversarial network",
+        "generative models"
+      ],
+      "stars": 35711,
+      "growth": 0
+    },
+    {
+      "name": "spaCy",
+      "url": "https://github.com/explosion/spaCy",
+      "category": "AI 工具",
+      "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "cython"
+      ],
+      "stars": 34020,
+      "growth": 0
+    },
+    {
+      "name": "pytorch-lightning",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning",
+      "category": "AI 工具",
+      "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zer…",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "data science"
+      ],
+      "stars": 31441,
+      "growth": 0
+    },
+    {
+      "name": "AI-Expert-Roadmap",
+      "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+      "category": "AI 工具",
+      "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+      "tags": [
+        "ai",
+        "ai roadmap",
         "artificial intelligence"
       ],
-      "stars": 74,
+      "stars": 31337,
       "growth": 0
     },
     {
-      "name": "light-loco-parkour",
-      "url": "https://github.com/lucidrains/light-loco-parkour",
+      "name": "nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
       "category": "AI 工具",
-      "description": "Implementation of Light Loco Parkour, Versatile Perceptive Whole-Body Loc…",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driv…",
       "tags": [
+        "algorithmic trading engine",
         "artificial intelligence",
-        "deep learning",
-        "locomotion"
+        "crypto trading"
       ],
-      "stars": 72,
+      "stars": 31216,
       "growth": 0
     },
     {
-      "name": "CodeMonk",
-      "url": "https://github.com/YeamimHossainSajid/CodeMonk",
+      "name": "awesome-ai-agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
       "category": "开发框架",
-      "description": "CodeMonk 🥋 —>An open-source AI powered code intelligence platform that h…",
+      "description": "A list of AI autonomous agents",
       "tags": [
-        "artificial intelligence",
-        "code intelligence",
-        "codebase navigation"
+        "agent",
+        "ai",
+        "artificial intelligence"
       ],
-      "stars": 70,
+      "stars": 30786,
       "growth": 0
     },
     {
-      "name": "ai-web-forge",
-      "url": "https://github.com/zahiruddin586-cpu/ai-web-forge",
+      "name": "Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "category": "AI 工具",
-      "description": "AI Web Solutions and Python Automation Projects by Krish Sharma 2026",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
       "tags": [
         "artificial intelligence",
-        "cybersecurity",
-        "frontend"
+        "book",
+        "large language models"
       ],
-      "stars": 68,
+      "stars": 30053,
+      "growth": 0
+    },
+    {
+      "name": "h4cker",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker",
+      "category": "AI 工具",
+      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
+      "tags": [
+        "ai",
+        "ai security",
+        "artificial intelligence"
+      ],
+      "stars": 30021,
+      "growth": 0
+    },
+    {
+      "name": "sim",
+      "url": "https://github.com/simstudioai/sim",
+      "category": "开发框架",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agent…",
+      "tags": [
+        "agent workflow",
+        "agentic workflow",
+        "agents"
+      ],
+      "stars": 29985,
+      "growth": 0
+    },
+    {
+      "name": "cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "category": "开发框架",
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical …",
+      "tags": [
+        "agentic ai",
+        "ai agents",
+        "artificial intelligence"
+      ],
+      "stars": 29857,
+      "growth": 0
+    },
+    {
+      "name": "repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "category": "AI 应用",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
+      "tags": [
+        "ai",
+        "anthropic",
+        "artificial intelligence"
+      ],
+      "stars": 29151,
+      "growth": 0
+    },
+    {
+      "name": "InvokeAI",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "category": "生成式媒体",
+      "description": "Invoke is a leading creative engine for Stable Diffusion models, empoweri…",
+      "tags": [
+        "ai art",
+        "artificial intelligence",
+        "generative art"
+      ],
+      "stars": 28974,
       "growth": 0
     }
   ]

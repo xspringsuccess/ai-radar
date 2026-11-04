@@ -298,5 +298,305 @@
   },
   "Anil-matcha/awesome-gpt-6-astra": {
     "2026-11-04": 13
+  },
+  "Significant-Gravitas/AutoGPT": {
+    "2026-11-04": 187891
+  },
+  "f/prompts.chat": {
+    "2026-11-04": 175753
+  },
+  "thedotmack/claude-mem": {
+    "2026-11-04": 112381
+  },
+  "rasbt/LLMs-from-scratch": {
+    "2026-11-04": 107792
+  },
+  "hacksider/Deep-Live-Cam": {
+    "2026-11-04": 97611
+  },
+  "OpenHands/OpenHands": {
+    "2026-11-04": 92615
+  },
+  "usestrix/strix": {
+    "2026-11-04": 73660
+  },
+  "microsoft/AI-For-Beginners": {
+    "2026-11-04": 70551
+  },
+  "jingyaogong/minimind": {
+    "2026-11-04": 64857
+  },
+  "Kong/kong": {
+    "2026-11-04": 44349
+  },
+  "ItzCrazyKns/Vane": {
+    "2026-11-04": 38011
+  },
+  "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code": {
+    "2026-11-04": 37627
+  },
+  "XingangPan/DragGAN": {
+    "2026-11-04": 35711
+  },
+  "explosion/spaCy": {
+    "2026-11-04": 34020
+  },
+  "Lightning-AI/pytorch-lightning": {
+    "2026-11-04": 31441
+  },
+  "AMAI-GmbH/AI-Expert-Roadmap": {
+    "2026-11-04": 31337
+  },
+  "nautechsystems/nautilus_trader": {
+    "2026-11-04": 31216
+  },
+  "e2b-dev/awesome-ai-agents": {
+    "2026-11-04": 30786
+  },
+  "HandsOnLLM/Hands-On-Large-Language-Models": {
+    "2026-11-04": 30053
+  },
+  "The-Art-of-Hacking/h4cker": {
+    "2026-11-04": 30021
+  },
+  "simstudioai/sim": {
+    "2026-11-04": 29985
+  },
+  "harvard-edge/cs249r_book": {
+    "2026-11-04": 29857
+  },
+  "yamadashy/repomix": {
+    "2026-11-04": 29151
+  },
+  "invoke-ai/InvokeAI": {
+    "2026-11-04": 28974
+  },
+  "ZuzooVn/machine-learning-for-software-engineers": {
+    "2026-11-04": 28880
+  },
+  "microsoft/semantic-kernel": {
+    "2026-11-04": 28730
+  },
+  "vercel/ai": {
+    "2026-11-04": 27730
+  },
+  "lucidrains/vit-pytorch": {
+    "2026-11-04": 25555
+  },
+  "Tencent/ncnn": {
+    "2026-11-04": 24021
+  },
+  "marimo-team/marimo": {
+    "2026-11-04": 23419
+  },
+  "elder-plinius/L1B3RT4S": {
+    "2026-11-04": 23112
+  },
+  "dipakkr/awesome-ai-engineering": {
+    "2026-11-04": 22524
+  },
+  "dyad-sh/dyad": {
+    "2026-11-04": 22181
+  },
+  "huggingface/datasets": {
+    "2026-11-04": 22112
+  },
+  "recommenders-team/recommenders": {
+    "2026-11-04": 21975
+  },
+  "liyupi/ai-guide": {
+    "2026-11-04": 21855
+  },
+  "bee-san/Ciphey": {
+    "2026-11-04": 21739
+  },
+  "stefan-jansen/machine-learning-for-trading": {
+    "2026-11-04": 21708
+  },
+  "onnx/onnx": {
+    "2026-11-04": 21640
+  },
+  "camel-ai/owl": {
+    "2026-11-04": 20173
+  },
+  "Alibaba-NLP/DeepResearch": {
+    "2026-11-04": 20101
+  },
+  "amark/gun": {
+    "2026-11-04": 19158
+  },
+  "microsoft/AirSim": {
+    "2026-11-04": 18599
+  },
+  "MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning": {
+    "2026-11-04": 18419
+  },
+  "camel-ai/camel": {
+    "2026-11-04": 18013
+  },
+  "TransformerOptimus/SuperAGI": {
+    "2026-11-04": 17731
+  },
+  "leon-ai/leon": {
+    "2026-11-04": 17638
+  },
+  "dair-ai/ml-visuals": {
+    "2026-11-04": 17447
+  },
+  "owainlewis/awesome-artificial-intelligence": {
+    "2026-11-04": 16778
+  },
+  "kailashahirwar/cheatsheets-ai": {
+    "2026-11-04": 15447
+  },
+  "ShangtongZhang/reinforcement-learning-an-introduction": {
+    "2026-11-04": 14797
+  },
+  "carla-simulator/carla": {
+    "2026-11-04": 14566
+  },
+  "semantica-agi/semantica": {
+    "2026-11-04": 14427
+  },
+  "deeplearning4j/deeplearning4j": {
+    "2026-11-04": 14275
+  },
+  "Lightning-AI/litgpt": {
+    "2026-11-04": 13746
+  },
+  "tangyudi/Ai-Learn": {
+    "2026-11-04": 13454
+  },
+  "0x4m4/hexstrike-ai": {
+    "2026-11-04": 13338
+  },
+  "steven2358/awesome-generative-ai": {
+    "2026-11-04": 12804
+  },
+  "diff-usion/Awesome-Diffusion-Models": {
+    "2026-11-04": 12380
+  },
+  "kornia/kornia": {
+    "2026-11-04": 12321
+  },
+  "willwulfken/MidJourney-Styles-and-Keywords-Reference": {
+    "2026-11-04": 12315
+  },
+  "holaboss-ai/holaOS": {
+    "2026-11-04": 11446
+  },
+  "lucidrains/DALLE2-pytorch": {
+    "2026-11-04": 11306
+  },
+  "The-Pocket/PocketFlow": {
+    "2026-11-04": 11301
+  },
+  "voxel51/fiftyone": {
+    "2026-11-04": 11273
+  },
+  "alibaba/spring-ai-alibaba": {
+    "2026-11-04": 11107
+  },
+  "WasmEdge/WasmEdge": {
+    "2026-11-04": 10856
+  },
+  "lucidrains/denoising-diffusion-pytorch": {
+    "2026-11-04": 10723
+  },
+  "lexfridman/mit-deep-learning": {
+    "2026-11-04": 10458
+  },
+  "google-deepmind/sonnet": {
+    "2026-11-04": 9975
+  },
+  "xorbitsai/inference": {
+    "2026-11-04": 9643
+  },
+  "spring-projects/spring-ai": {
+    "2026-11-04": 9621
+  },
+  "olistic/warriorjs": {
+    "2026-11-04": 9542
+  },
+  "ccfddl/ccf-deadlines": {
+    "2026-11-04": 9512
+  },
+  "ai-collection/ai-collection": {
+    "2026-11-04": 9271
+  },
+  "0xPlaygrounds/rig": {
+    "2026-11-04": 9065
+  },
+  "OlafenwaMoses/ImageAI": {
+    "2026-11-04": 8894
+  },
+  "mage-ai/mage-ai": {
+    "2026-11-04": 8840
+  },
+  "jingyaogong/minimind-v": {
+    "2026-11-04": 8814
+  },
+  "lucidrains/imagen-pytorch": {
+    "2026-11-04": 8430
+  },
+  "nebuly-ai/optimate": {
+    "2026-11-04": 8327
+  },
+  "cporter202/API-mega-list": {
+    "2026-11-04": 8287
+  },
+  "RayVentura/ShortGPT": {
+    "2026-11-04": 8104
+  },
+  "alirezamika/autoscraper": {
+    "2026-11-04": 8070
+  },
+  "SciPhi-AI/R2R": {
+    "2026-11-04": 8057
+  },
+  "stanfordnlp/stanza": {
+    "2026-11-04": 7906
+  },
+  "lucidrains/PaLM-rlhf-pytorch": {
+    "2026-11-04": 7862
+  },
+  "HenryNdubuaku/maths-cs-ai-compendium": {
+    "2026-11-04": 7688
+  },
+  "di-sukharev/opencommit": {
+    "2026-11-04": 7543
+  },
+  "google-deepmind/lab": {
+    "2026-11-04": 7393
+  },
+  "tensorlayer/TensorLayer": {
+    "2026-11-04": 7386
+  },
+  "kyegomez/swarms": {
+    "2026-11-04": 7350
+  },
+  "flwrlabs/flower": {
+    "2026-11-04": 7195
+  },
+  "instillai/machine-learning-course": {
+    "2026-11-04": 7044
+  },
+  "deeppavlov/DeepPavlov": {
+    "2026-11-04": 6998
+  },
+  "interpretml/interpret": {
+    "2026-11-04": 6976
+  },
+  "mishushakov/llm-scraper": {
+    "2026-11-04": 6950
+  },
+  "postgresml/postgresml": {
+    "2026-11-04": 6825
+  },
+  "guofei9987/scikit-opt": {
+    "2026-11-04": 6725
+  },
+  "CodeWithCJ/SparkyFitness": {
+    "2026-11-04": 6697
   }
 }
