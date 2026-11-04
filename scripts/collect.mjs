@@ -11,11 +11,10 @@ const historyFile = new URL('../data/star-history.json', import.meta.url);
 const token = process.env.GITHUB_TOKEN;
 const headers = { Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28', ...(token ? { Authorization: `Bearer ${token}` } : {}) };
 const today = new Date().toISOString().slice(0, 10);
-// Only consider projects created during the last 3 months, then rank the
-// candidates by total Stars. Star snapshots still provide the 7-day momentum.
-const threeMonthsAgo = new Date();
-threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
-const query = `topic:artificial-intelligence created:>${threeMonthsAgo.toISOString().slice(0, 10)} archived:false`;
+// Search the full history: the board is intentionally biased toward proven,
+// high-signal projects rather than newly created repositories.
+const minStars = 1000;
+const query = `topic:artificial-intelligence stars:>=${minStars} archived:false`;
 
 function classify(repo) {
   const text = `${repo.name} ${repo.description || ''} ${(repo.topics || []).join(' ')}`.toLowerCase();
@@ -46,7 +45,7 @@ async function main() {
   const projects = result.items.map(repo => {
     const old = history[repo.full_name]?.[dayBeforeWindow];
     return { name: repo.name, url: repo.html_url, category: classify(repo), description: summarize(repo), tags: tags(repo), stars: repo.stargazers_count, growth: old == null ? 0 : Math.max(0, repo.stargazers_count - old) };
-  }).filter(p => p.tags.length > 0)
+  }).filter(p => p.tags.length > 0 && p.stars >= minStars)
     // Before the first 7-day window is available, retain GitHub's star order.
     .sort((a, b) => (b.growth - a.growth) || (b.stars - a.stars)).slice(0, 24);
   for (const repo of result.items) {
