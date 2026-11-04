@@ -10,7 +10,7 @@ function render() {
   }));
   const term = state.term.trim().toLowerCase();
   const list = state.projects.filter(p => (state.category === '全部' || p.category === state.category) && (!term || [p.name,p.description,p.category,...p.tags].join(' ').toLowerCase().includes(term)));
-  els.summary.innerHTML = `追踪 <strong>${state.projects.length}</strong> 个 AI 项目，当前显示 <strong>${list.length}</strong> 个`;
+  els.summary.innerHTML = `追踪 <strong>${state.projects.length}</strong> 个 AI 项目（均 ≥ 1,000 Star），当前显示 <strong>${list.length}</strong> 个`;
   els.projects.replaceChildren(...list.map(project => card(project)));
   els.empty.hidden = list.length > 0;
 }
