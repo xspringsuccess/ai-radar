@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-11-04",
+  "projects": [
+    { "name": "open-webui", "url": "https://github.com/open-webui/open-webui", "category": "AI 应用", "description": "自托管的 AI 对话工作台，可统一接入多种大模型并扩展知识库与工具。", "tags": ["LLM", "Chat", "Self-hosted"], "stars": 118000, "growth": 3920 },
+    { "name": "ComfyUI", "url": "https://github.com/comfyanonymous/ComfyUI", "category": "生成式媒体", "description": "以节点工作流组织图像生成与编辑流程，适合可复用、可控的创作管线。", "tags": ["Image", "Diffusion", "Workflow"], "stars": 89300, "growth": 3150 },
+    { "name": "LangChain", "url": "https://github.com/langchain-ai/langchain", "category": "开发框架", "description": "用于组合模型、检索与外部工具的应用开发框架，覆盖 Agent 和 RAG 场景。", "tags": ["Agent", "RAG", "Python"], "stars": 112000, "growth": 2460 },
+    { "name": "Ollama", "url": "https://github.com/ollama/ollama", "category": "模型运行", "description": "让本地运行和管理大语言模型变得简单，适合隐私优先的开发与实验。", "tags": ["Local LLM", "Inference", "macOS"], "stars": 152000, "growth": 2280 },
+    { "name": "vLLM", "url": "https://github.com/vllm-project/vllm", "category": "模型运行", "description": "面向高吞吐推理的 LLM 服务引擎，提供兼容 OpenAI 的服务接口。", "tags": ["Inference", "Serving", "GPU"], "stars": 52600, "growth": 1760 },
+    { "name": "LlamaIndex", "url": "https://github.com/run-llama/llama_index", "category": "开发框架", "description": "帮助大模型连接私有数据的上下文与检索框架，专注生产级知识应用。", "tags": ["RAG", "Data", "Agent"], "stars": 43900, "growth": 1210 }
+  ]
+}
+
