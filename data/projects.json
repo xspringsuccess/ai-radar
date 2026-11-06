@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "projects": [
     {
       "name": "AutoGPT",
@@ -11,7 +11,7 @@
         "agents",
         "ai"
       ],
-      "stars": 187908,
+      "stars": 187918,
       "growth": 0
     },
     {
@@ -24,7 +24,7 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 175848,
+      "stars": 175948,
       "growth": 0
     },
     {
@@ -37,7 +37,7 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 113127,
+      "stars": 113694,
       "growth": 0
     },
     {
@@ -50,7 +50,7 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 107840,
+      "stars": 107892,
       "growth": 0
     },
     {
@@ -63,7 +63,7 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 97628,
+      "stars": 97647,
       "growth": 0
     },
     {
@@ -76,7 +76,7 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 92692,
+      "stars": 92783,
       "growth": 0
     },
     {
@@ -89,7 +89,7 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 73824,
+      "stars": 74018,
       "growth": 0
     },
     {
@@ -102,7 +102,7 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 70580,
+      "stars": 70597,
       "growth": 0
     },
     {
@@ -114,7 +114,7 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 64896,
+      "stars": 64929,
       "growth": 0
     },
     {
@@ -127,7 +127,7 @@
         "ai gateway",
         "api gateway"
       ],
-      "stars": 44357,
+      "stars": 44363,
       "growth": 0
     },
     {
@@ -140,7 +140,7 @@
         "ai search engine",
         "answering engine"
       ],
-      "stars": 38037,
+      "stars": 38042,
       "growth": 0
     },
     {
@@ -153,7 +153,7 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37634,
+      "stars": 37643,
       "growth": 0
     },
     {
@@ -166,7 +166,7 @@
         "generative adversarial network",
         "generative models"
       ],
-      "stars": 35708,
+      "stars": 35705,
       "growth": 0
     },
     {
@@ -179,7 +179,7 @@
         "artificial intelligence",
         "cython"
       ],
-      "stars": 34026,
+      "stars": 34032,
       "growth": 0
     },
     {
@@ -205,7 +205,7 @@
         "ai roadmap",
         "artificial intelligence"
       ],
-      "stars": 31338,
+      "stars": 31342,
       "growth": 0
     },
     {
@@ -218,7 +218,7 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31248,
+      "stars": 31287,
       "growth": 0
     },
     {
@@ -231,7 +231,7 @@
         "ai",
         "artificial intelligence"
       ],
-      "stars": 30797,
+      "stars": 30813,
       "growth": 0
     },
     {
@@ -244,7 +244,7 @@
         "book",
         "large language models"
       ],
-      "stars": 30068,
+      "stars": 30075,
       "growth": 0
     },
     {
@@ -257,7 +257,7 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30040,
+      "stars": 30054,
       "growth": 0
     },
     {
@@ -270,7 +270,7 @@
         "agentic workflow",
         "agents"
       ],
-      "stars": 29988,
+      "stars": 30012,
       "growth": 0
     },
     {
@@ -283,7 +283,7 @@
         "ai agents",
         "artificial intelligence"
       ],
-      "stars": 29959,
+      "stars": 29986,
       "growth": 0
     },
     {
@@ -296,7 +296,7 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 29162,
+      "stars": 29166,
       "growth": 0
     },
     {
@@ -309,7 +309,7 @@
         "artificial intelligence",
         "generative art"
       ],
-      "stars": 28987,
+      "stars": 29001,
       "growth": 0
     }
   ]
