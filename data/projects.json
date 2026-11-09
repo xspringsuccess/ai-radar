@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "projects": [
     {
       "name": "AutoGPT",
@@ -11,7 +11,7 @@
         "agents",
         "ai"
       ],
-      "stars": 187933,
+      "stars": 187956,
       "growth": 0
     },
     {
@@ -24,7 +24,7 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 176323,
+      "stars": 176628,
       "growth": 0
     },
     {
@@ -37,7 +37,7 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 114608,
+      "stars": 115071,
       "growth": 0
     },
     {
@@ -50,7 +50,7 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 107988,
+      "stars": 108054,
       "growth": 0
     },
     {
@@ -63,7 +63,7 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 97795,
+      "stars": 97848,
       "growth": 0
     },
     {
@@ -76,7 +76,7 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 92919,
+      "stars": 93002,
       "growth": 0
     },
     {
@@ -89,7 +89,7 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 74304,
+      "stars": 74511,
       "growth": 0
     },
     {
@@ -102,7 +102,7 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 70628,
+      "stars": 70657,
       "growth": 0
     },
     {
@@ -114,7 +114,7 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 65001,
+      "stars": 65031,
       "growth": 0
     },
     {
@@ -127,7 +127,7 @@
         "ai gateway",
         "api gateway"
       ],
-      "stars": 44366,
+      "stars": 44369,
       "growth": 0
     },
     {
@@ -140,7 +140,7 @@
         "ai search engine",
         "answering engine"
       ],
-      "stars": 38065,
+      "stars": 38100,
       "growth": 0
     },
     {
@@ -153,7 +153,7 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37676,
+      "stars": 37689,
       "growth": 0
     },
     {
@@ -166,7 +166,7 @@
         "generative adversarial network",
         "generative models"
       ],
-      "stars": 35702,
+      "stars": 35700,
       "growth": 0
     },
     {
@@ -179,7 +179,7 @@
         "artificial intelligence",
         "cython"
       ],
-      "stars": 34038,
+      "stars": 34037,
       "growth": 0
     },
     {
@@ -205,7 +205,7 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31353,
+      "stars": 31386,
       "growth": 0
     },
     {
@@ -218,7 +218,7 @@
         "ai roadmap",
         "artificial intelligence"
       ],
-      "stars": 31346,
+      "stars": 31347,
       "growth": 0
     },
     {
@@ -231,7 +231,7 @@
         "ai",
         "artificial intelligence"
       ],
-      "stars": 30848,
+      "stars": 30866,
       "growth": 0
     },
     {
@@ -244,20 +244,7 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30095,
-      "growth": 0
-    },
-    {
-      "name": "Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "category": "AI 工具",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
-      "tags": [
-        "artificial intelligence",
-        "book",
-        "large language models"
-      ],
-      "stars": 30086,
+      "stars": 30111,
       "growth": 0
     },
     {
@@ -270,7 +257,20 @@
         "agentic workflow",
         "agents"
       ],
-      "stars": 30071,
+      "stars": 30107,
+      "growth": 0
+    },
+    {
+      "name": "Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "category": "AI 工具",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
+      "tags": [
+        "artificial intelligence",
+        "book",
+        "large language models"
+      ],
+      "stars": 30097,
       "growth": 0
     },
     {
@@ -283,7 +283,7 @@
         "ai agents",
         "artificial intelligence"
       ],
-      "stars": 30016,
+      "stars": 30076,
       "growth": 0
     },
     {
@@ -296,20 +296,20 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 29182,
+      "stars": 29199,
       "growth": 0
     },
     {
       "name": "InvokeAI",
       "url": "https://github.com/invoke-ai/InvokeAI",
       "category": "生成式媒体",
-      "description": "Invoke is a leading creative engine for Stable Diffusion models, empoweri…",
+      "description": "Invoke is a leading creative engine that uses image and video generation …",
       "tags": [
         "ai art",
         "artificial intelligence",
         "generative art"
       ],
-      "stars": 29018,
+      "stars": 29036,
       "growth": 0
     }
   ]
