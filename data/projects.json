@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "projects": [
     {
       "name": "AutoGPT",
@@ -11,7 +11,7 @@
         "agents",
         "ai"
       ],
-      "stars": 187956,
+      "stars": 187976,
       "growth": 0
     },
     {
@@ -24,7 +24,7 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 176628,
+      "stars": 176788,
       "growth": 0
     },
     {
@@ -37,7 +37,7 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 115071,
+      "stars": 115544,
       "growth": 0
     },
     {
@@ -50,7 +50,7 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 108054,
+      "stars": 108136,
       "growth": 0
     },
     {
@@ -63,7 +63,7 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 97848,
+      "stars": 97905,
       "growth": 0
     },
     {
@@ -76,7 +76,7 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 93002,
+      "stars": 93088,
       "growth": 0
     },
     {
@@ -89,7 +89,7 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 74511,
+      "stars": 74757,
       "growth": 0
     },
     {
@@ -102,7 +102,7 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 70657,
+      "stars": 70683,
       "growth": 0
     },
     {
@@ -114,7 +114,7 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 65031,
+      "stars": 65085,
       "growth": 0
     },
     {
@@ -127,7 +127,7 @@
         "ai gateway",
         "api gateway"
       ],
-      "stars": 44369,
+      "stars": 44371,
       "growth": 0
     },
     {
@@ -140,7 +140,7 @@
         "ai search engine",
         "answering engine"
       ],
-      "stars": 38100,
+      "stars": 38140,
       "growth": 0
     },
     {
@@ -153,7 +153,7 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37689,
+      "stars": 37695,
       "growth": 0
     },
     {
@@ -166,7 +166,7 @@
         "generative adversarial network",
         "generative models"
       ],
-      "stars": 35700,
+      "stars": 35697,
       "growth": 0
     },
     {
@@ -179,7 +179,7 @@
         "artificial intelligence",
         "cython"
       ],
-      "stars": 34037,
+      "stars": 34039,
       "growth": 0
     },
     {
@@ -192,7 +192,7 @@
         "artificial intelligence",
         "data science"
       ],
-      "stars": 31447,
+      "stars": 31446,
       "growth": 0
     },
     {
@@ -205,7 +205,7 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31386,
+      "stars": 31428,
       "growth": 0
     },
     {
@@ -218,7 +218,7 @@
         "ai roadmap",
         "artificial intelligence"
       ],
-      "stars": 31347,
+      "stars": 31349,
       "growth": 0
     },
     {
@@ -231,7 +231,7 @@
         "ai",
         "artificial intelligence"
       ],
-      "stars": 30866,
+      "stars": 30878,
       "growth": 0
     },
     {
@@ -244,7 +244,7 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30111,
+      "stars": 30127,
       "growth": 0
     },
     {
@@ -257,20 +257,7 @@
         "agentic workflow",
         "agents"
       ],
-      "stars": 30107,
-      "growth": 0
-    },
-    {
-      "name": "Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "category": "AI 工具",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
-      "tags": [
-        "artificial intelligence",
-        "book",
-        "large language models"
-      ],
-      "stars": 30097,
+      "stars": 30118,
       "growth": 0
     },
     {
@@ -283,7 +270,20 @@
         "ai agents",
         "artificial intelligence"
       ],
-      "stars": 30076,
+      "stars": 30111,
+      "growth": 0
+    },
+    {
+      "name": "Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "category": "AI 工具",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
+      "tags": [
+        "artificial intelligence",
+        "book",
+        "large language models"
+      ],
+      "stars": 30105,
       "growth": 0
     },
     {
@@ -296,7 +296,7 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 29199,
+      "stars": 29208,
       "growth": 0
     },
     {
@@ -309,7 +309,7 @@
         "artificial intelligence",
         "generative art"
       ],
-      "stars": 29036,
+      "stars": 29052,
       "growth": 0
     }
   ]
