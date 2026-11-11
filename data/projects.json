@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-11",
   "projects": [
-    {
-      "name": "AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "category": "生成式媒体",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
-      "tags": [
-        "agentic ai",
-        "agents",
-        "ai"
-      ],
-      "stars": 187976,
-      "growth": 0
-    },
-    {
-      "name": "prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "category": "AI 应用",
-      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from…",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "awesome list"
-      ],
-      "stars": 176788,
-      "growth": 0
-    },
     {
       "name": "claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
@@ -37,47 +11,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 115544,
-      "growth": 0
-    },
-    {
-      "name": "LLMs-from-scratch",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "category": "AI 应用",
-      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "attention mechanism"
-      ],
-      "stars": 108136,
-      "growth": 0
-    },
-    {
-      "name": "Deep-Live-Cam",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "category": "生成式媒体",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "tags": [
-        "ai",
-        "ai deep fake",
-        "ai face"
-      ],
-      "stars": 97905,
-      "growth": 0
-    },
-    {
-      "name": "OpenHands",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "category": "开发框架",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "tags": [
-        "agent",
-        "artificial intelligence",
-        "chatgpt"
-      ],
-      "stars": 93088,
-      "growth": 0
+      "stars": 115956,
+      "growth": 3575
     },
     {
       "name": "strix",
@@ -89,176 +24,60 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 74757,
-      "growth": 0
+      "stars": 74910,
+      "growth": 1250
     },
     {
-      "name": "AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "category": "生成式媒体",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "name": "prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "category": "AI 应用",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from…",
       "tags": [
         "ai",
         "artificial intelligence",
-        "cnn"
+        "awesome list"
       ],
-      "stars": 70683,
-      "growth": 0
+      "stars": 176869,
+      "growth": 1116
     },
     {
-      "name": "minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "category": "AI 工具",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "tags": [
-        "artificial intelligence",
-        "large language model"
-      ],
-      "stars": 65085,
-      "growth": 0
-    },
-    {
-      "name": "kong",
-      "url": "https://github.com/Kong/kong",
-      "category": "AI 工具",
-      "description": "🦍 The API and AI Gateway",
-      "tags": [
-        "ai",
-        "ai gateway",
-        "api gateway"
-      ],
-      "stars": 44371,
-      "growth": 0
-    },
-    {
-      "name": "Vane",
-      "url": "https://github.com/ItzCrazyKns/Vane",
+      "name": "OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
       "category": "开发框架",
-      "description": "Vane is an AI-powered answering engine.",
-      "tags": [
-        "ai agents",
-        "ai search engine",
-        "answering engine"
-      ],
-      "stars": 38140,
-      "growth": 0
-    },
-    {
-      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "category": "生成式媒体",
-      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with c…",
-      "tags": [
-        "artificial intelligence",
-        "artificial intelligence projects",
-        "awesome"
-      ],
-      "stars": 37695,
-      "growth": 0
-    },
-    {
-      "name": "DragGAN",
-      "url": "https://github.com/XingangPan/DragGAN",
-      "category": "生成式媒体",
-      "description": "Official Code for DragGAN (SIGGRAPH 2023)",
-      "tags": [
-        "artificial intelligence",
-        "generative adversarial network",
-        "generative models"
-      ],
-      "stars": 35697,
-      "growth": 0
-    },
-    {
-      "name": "spaCy",
-      "url": "https://github.com/explosion/spaCy",
-      "category": "AI 工具",
-      "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "cython"
-      ],
-      "stars": 34039,
-      "growth": 0
-    },
-    {
-      "name": "pytorch-lightning",
-      "url": "https://github.com/Lightning-AI/pytorch-lightning",
-      "category": "AI 工具",
-      "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zer…",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "data science"
-      ],
-      "stars": 31446,
-      "growth": 0
-    },
-    {
-      "name": "nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "category": "AI 工具",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driv…",
-      "tags": [
-        "algorithmic trading engine",
-        "artificial intelligence",
-        "crypto trading"
-      ],
-      "stars": 31428,
-      "growth": 0
-    },
-    {
-      "name": "AI-Expert-Roadmap",
-      "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-      "category": "AI 工具",
-      "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
-      "tags": [
-        "ai",
-        "ai roadmap",
-        "artificial intelligence"
-      ],
-      "stars": 31349,
-      "growth": 0
-    },
-    {
-      "name": "awesome-ai-agents",
-      "url": "https://github.com/e2b-dev/awesome-ai-agents",
-      "category": "开发框架",
-      "description": "A list of AI autonomous agents",
+      "description": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "agent",
-        "ai",
-        "artificial intelligence"
+        "artificial intelligence",
+        "chatgpt"
       ],
-      "stars": 30878,
-      "growth": 0
+      "stars": 93181,
+      "growth": 566
     },
     {
-      "name": "h4cker",
-      "url": "https://github.com/The-Art-of-Hacking/h4cker",
-      "category": "AI 工具",
-      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
+      "name": "LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "category": "AI 应用",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "tags": [
         "ai",
-        "ai security",
-        "artificial intelligence"
+        "artificial intelligence",
+        "attention mechanism"
       ],
-      "stars": 30127,
-      "growth": 0
+      "stars": 108216,
+      "growth": 424
     },
     {
-      "name": "sim",
-      "url": "https://github.com/simstudioai/sim",
-      "category": "开发框架",
-      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agent…",
+      "name": "Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "category": "生成式媒体",
+      "description": "real time face swap and one-click video deepfake with only a single image",
       "tags": [
-        "agent workflow",
-        "agentic workflow",
-        "agents"
+        "ai",
+        "ai deep fake",
+        "ai face"
       ],
-      "stars": 30118,
-      "growth": 0
+      "stars": 97980,
+      "growth": 369
     },
     {
       "name": "cs249r_book",
@@ -270,34 +89,202 @@
         "ai agents",
         "artificial intelligence"
       ],
-      "stars": 30111,
-      "growth": 0
+      "stars": 30135,
+      "growth": 278
     },
     {
-      "name": "Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "name": "minimind",
+      "url": "https://github.com/jingyaogong/minimind",
       "category": "AI 工具",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "tags": [
         "artificial intelligence",
-        "book",
-        "large language models"
+        "large language model"
       ],
-      "stars": 30105,
-      "growth": 0
+      "stars": 65113,
+      "growth": 256
     },
     {
-      "name": "repomix",
-      "url": "https://github.com/yamadashy/repomix",
-      "category": "AI 应用",
-      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
+      "name": "nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "category": "AI 工具",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driv…",
+      "tags": [
+        "algorithmic trading engine",
+        "artificial intelligence",
+        "crypto trading"
+      ],
+      "stars": 31451,
+      "growth": 235
+    },
+    {
+      "name": "hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "category": "开发框架",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Cl…",
+      "tags": [
+        "0x4m4",
+        "ai",
+        "ai agents"
+      ],
+      "stars": 13511,
+      "growth": 173
+    },
+    {
+      "name": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "category": "生成式媒体",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
       "tags": [
         "ai",
-        "anthropic",
+        "artificial intelligence",
+        "cnn"
+      ],
+      "stars": 70712,
+      "growth": 161
+    },
+    {
+      "name": "ai-guide",
+      "url": "https://github.com/liyupi/ai-guide",
+      "category": "开发框架",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT…",
+      "tags": [
+        "ai",
+        "ai agent",
         "artificial intelligence"
       ],
-      "stars": 29208,
-      "growth": 0
+      "stars": 22007,
+      "growth": 152
+    },
+    {
+      "name": "Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "category": "开发框架",
+      "description": "Vane is an AI-powered answering engine.",
+      "tags": [
+        "ai agents",
+        "ai search engine",
+        "answering engine"
+      ],
+      "stars": 38157,
+      "growth": 146
+    },
+    {
+      "name": "L1B3RT4S",
+      "url": "https://github.com/elder-plinius/L1B3RT4S",
+      "category": "AI 工具",
+      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
+      "tags": [
+        "1337",
+        "adversarial attacks",
+        "ai"
+      ],
+      "stars": 23256,
+      "growth": 144
+    },
+    {
+      "name": "sim",
+      "url": "https://github.com/simstudioai/sim",
+      "category": "开发框架",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agent…",
+      "tags": [
+        "agent workflow",
+        "agentic workflow",
+        "agents"
+      ],
+      "stars": 30119,
+      "growth": 134
+    },
+    {
+      "name": "ai",
+      "url": "https://github.com/vercel/ai",
+      "category": "开发框架",
+      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK i…",
+      "tags": [
+        "anthropic",
+        "artificial intelligence",
+        "gemini"
+      ],
+      "stars": 27862,
+      "growth": 132
+    },
+    {
+      "name": "h4cker",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker",
+      "category": "AI 工具",
+      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
+      "tags": [
+        "ai",
+        "ai security",
+        "artificial intelligence"
+      ],
+      "stars": 30141,
+      "growth": 120
+    },
+    {
+      "name": "awesome-ai-agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "category": "开发框架",
+      "description": "A list of AI autonomous agents",
+      "tags": [
+        "agent",
+        "ai",
+        "artificial intelligence"
+      ],
+      "stars": 30891,
+      "growth": 105
+    },
+    {
+      "name": "semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "category": "开发框架",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "tags": [
+        "agent memory",
+        "ai",
+        "ai governance"
+      ],
+      "stars": 14529,
+      "growth": 102
+    },
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "category": "生成式媒体",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
+      "tags": [
+        "agentic ai",
+        "agents",
+        "ai"
+      ],
+      "stars": 187990,
+      "growth": 99
+    },
+    {
+      "name": "marimo",
+      "url": "https://github.com/marimo-team/marimo",
+      "category": "AI 工具",
+      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
+      "tags": [
+        "artificial intelligence",
+        "dag",
+        "data science"
+      ],
+      "stars": 23510,
+      "growth": 91
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "category": "生成式媒体",
+      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with c…",
+      "tags": [
+        "artificial intelligence",
+        "artificial intelligence projects",
+        "awesome"
+      ],
+      "stars": 37714,
+      "growth": 87
     },
     {
       "name": "InvokeAI",
@@ -309,8 +296,21 @@
         "artificial intelligence",
         "generative art"
       ],
-      "stars": 29052,
-      "growth": 0
+      "stars": 29060,
+      "growth": 86
+    },
+    {
+      "name": "dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "category": "模型运行",
+      "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit…",
+      "tags": [
+        "ai app builder",
+        "anthropic",
+        "artificial intelligence"
+      ],
+      "stars": 22260,
+      "growth": 79
     }
   ]
 }
