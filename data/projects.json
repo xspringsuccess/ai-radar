@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "projects": [
     {
       "name": "claude-mem",
@@ -11,8 +11,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 115956,
-      "growth": 3575
+      "stars": 116339,
+      "growth": 3212
     },
     {
       "name": "strix",
@@ -24,8 +24,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 74910,
-      "growth": 1250
+      "stars": 75077,
+      "growth": 1253
     },
     {
       "name": "prompts.chat",
@@ -37,8 +37,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 176869,
-      "growth": 1116
+      "stars": 176951,
+      "growth": 1103
     },
     {
       "name": "OpenHands",
@@ -50,8 +50,8 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 93181,
-      "growth": 566
+      "stars": 93290,
+      "growth": 598
     },
     {
       "name": "LLMs-from-scratch",
@@ -63,8 +63,8 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 108216,
-      "growth": 424
+      "stars": 108269,
+      "growth": 429
     },
     {
       "name": "Deep-Live-Cam",
@@ -76,21 +76,8 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 97980,
-      "growth": 369
-    },
-    {
-      "name": "cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "category": "开发框架",
-      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical …",
-      "tags": [
-        "agentic ai",
-        "ai agents",
-        "artificial intelligence"
-      ],
-      "stars": 30135,
-      "growth": 278
+      "stars": 98022,
+      "growth": 394
     },
     {
       "name": "minimind",
@@ -101,8 +88,8 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 65113,
-      "growth": 256
+      "stars": 65153,
+      "growth": 257
     },
     {
       "name": "nautilus_trader",
@@ -114,8 +101,21 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31451,
-      "growth": 235
+      "stars": 31474,
+      "growth": 226
+    },
+    {
+      "name": "cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "category": "开发框架",
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical …",
+      "tags": [
+        "agentic ai",
+        "ai agents",
+        "artificial intelligence"
+      ],
+      "stars": 30157,
+      "growth": 198
     },
     {
       "name": "hexstrike-ai",
@@ -127,21 +127,8 @@
         "ai",
         "ai agents"
       ],
-      "stars": 13511,
-      "growth": 173
-    },
-    {
-      "name": "AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "category": "生成式媒体",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "cnn"
-      ],
-      "stars": 70712,
-      "growth": 161
+      "stars": 13538,
+      "growth": 169
     },
     {
       "name": "ai-guide",
@@ -153,8 +140,21 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22007,
-      "growth": 152
+      "stars": 22029,
+      "growth": 153
+    },
+    {
+      "name": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "category": "生成式媒体",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "cnn"
+      ],
+      "stars": 70726,
+      "growth": 146
     },
     {
       "name": "Vane",
@@ -166,21 +166,8 @@
         "ai search engine",
         "answering engine"
       ],
-      "stars": 38157,
-      "growth": 146
-    },
-    {
-      "name": "L1B3RT4S",
-      "url": "https://github.com/elder-plinius/L1B3RT4S",
-      "category": "AI 工具",
-      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
-      "tags": [
-        "1337",
-        "adversarial attacks",
-        "ai"
-      ],
-      "stars": 23256,
-      "growth": 144
+      "stars": 38180,
+      "growth": 143
     },
     {
       "name": "sim",
@@ -192,8 +179,21 @@
         "agentic workflow",
         "agents"
       ],
-      "stars": 30119,
-      "growth": 134
+      "stars": 30126,
+      "growth": 138
+    },
+    {
+      "name": "L1B3RT4S",
+      "url": "https://github.com/elder-plinius/L1B3RT4S",
+      "category": "AI 工具",
+      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
+      "tags": [
+        "1337",
+        "adversarial attacks",
+        "ai"
+      ],
+      "stars": 23274,
+      "growth": 137
     },
     {
       "name": "ai",
@@ -205,8 +205,8 @@
         "artificial intelligence",
         "gemini"
       ],
-      "stars": 27862,
-      "growth": 132
+      "stars": 27879,
+      "growth": 129
     },
     {
       "name": "h4cker",
@@ -218,21 +218,8 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30141,
-      "growth": 120
-    },
-    {
-      "name": "awesome-ai-agents",
-      "url": "https://github.com/e2b-dev/awesome-ai-agents",
-      "category": "开发框架",
-      "description": "A list of AI autonomous agents",
-      "tags": [
-        "agent",
-        "ai",
-        "artificial intelligence"
-      ],
-      "stars": 30891,
-      "growth": 105
+      "stars": 30166,
+      "growth": 126
     },
     {
       "name": "semantica",
@@ -244,34 +231,21 @@
         "ai",
         "ai governance"
       ],
-      "stars": 14529,
-      "growth": 102
+      "stars": 14555,
+      "growth": 115
     },
     {
-      "name": "AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "category": "生成式媒体",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
+      "name": "awesome-ai-agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "category": "开发框架",
+      "description": "A list of AI autonomous agents",
       "tags": [
-        "agentic ai",
-        "agents",
-        "ai"
+        "agent",
+        "ai",
+        "artificial intelligence"
       ],
-      "stars": 187990,
-      "growth": 99
-    },
-    {
-      "name": "marimo",
-      "url": "https://github.com/marimo-team/marimo",
-      "category": "AI 工具",
-      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
-      "tags": [
-        "artificial intelligence",
-        "dag",
-        "data science"
-      ],
-      "stars": 23510,
-      "growth": 91
+      "stars": 30907,
+      "growth": 110
     },
     {
       "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
@@ -283,8 +257,34 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37714,
-      "growth": 87
+      "stars": 37730,
+      "growth": 96
+    },
+    {
+      "name": "marimo",
+      "url": "https://github.com/marimo-team/marimo",
+      "category": "AI 工具",
+      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
+      "tags": [
+        "artificial intelligence",
+        "dag",
+        "data science"
+      ],
+      "stars": 23527,
+      "growth": 95
+    },
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "category": "生成式媒体",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
+      "tags": [
+        "agentic ai",
+        "agents",
+        "ai"
+      ],
+      "stars": 187999,
+      "growth": 91
     },
     {
       "name": "InvokeAI",
@@ -296,8 +296,8 @@
         "artificial intelligence",
         "generative art"
       ],
-      "stars": 29060,
-      "growth": 86
+      "stars": 29072,
+      "growth": 85
     },
     {
       "name": "dyad",
@@ -309,8 +309,8 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 22260,
-      "growth": 79
+      "stars": 22269,
+      "growth": 82
     }
   ]
 }
