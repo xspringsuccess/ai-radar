@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "projects": [
     {
       "name": "claude-mem",
@@ -11,8 +11,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 116339,
-      "growth": 3212
+      "stars": 116656,
+      "growth": 2962
     },
     {
       "name": "strix",
@@ -24,8 +24,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 75077,
-      "growth": 1253
+      "stars": 75223,
+      "growth": 1205
     },
     {
       "name": "prompts.chat",
@@ -37,8 +37,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 176951,
-      "growth": 1103
+      "stars": 177040,
+      "growth": 1092
     },
     {
       "name": "OpenHands",
@@ -50,8 +50,8 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 93290,
-      "growth": 598
+      "stars": 93376,
+      "growth": 593
     },
     {
       "name": "LLMs-from-scratch",
@@ -63,8 +63,8 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 108269,
-      "growth": 429
+      "stars": 108326,
+      "growth": 434
     },
     {
       "name": "Deep-Live-Cam",
@@ -76,8 +76,8 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 98022,
-      "growth": 394
+      "stars": 98063,
+      "growth": 416
     },
     {
       "name": "minimind",
@@ -88,8 +88,8 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 65153,
-      "growth": 257
+      "stars": 65187,
+      "growth": 258
     },
     {
       "name": "nautilus_trader",
@@ -101,8 +101,8 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31474,
-      "growth": 226
+      "stars": 31490,
+      "growth": 203
     },
     {
       "name": "cs249r_book",
@@ -114,8 +114,8 @@
         "ai agents",
         "artificial intelligence"
       ],
-      "stars": 30157,
-      "growth": 198
+      "stars": 30177,
+      "growth": 191
     },
     {
       "name": "hexstrike-ai",
@@ -127,8 +127,8 @@
         "ai",
         "ai agents"
       ],
-      "stars": 13538,
-      "growth": 169
+      "stars": 13557,
+      "growth": 167
     },
     {
       "name": "ai-guide",
@@ -140,8 +140,8 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22029,
-      "growth": 153
+      "stars": 22065,
+      "growth": 157
     },
     {
       "name": "AI-For-Beginners",
@@ -153,8 +153,8 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 70726,
-      "growth": 146
+      "stars": 70750,
+      "growth": 153
     },
     {
       "name": "Vane",
@@ -166,34 +166,8 @@
         "ai search engine",
         "answering engine"
       ],
-      "stars": 38180,
-      "growth": 143
-    },
-    {
-      "name": "sim",
-      "url": "https://github.com/simstudioai/sim",
-      "category": "开发框架",
-      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agent…",
-      "tags": [
-        "agent workflow",
-        "agentic workflow",
-        "agents"
-      ],
-      "stars": 30126,
-      "growth": 138
-    },
-    {
-      "name": "L1B3RT4S",
-      "url": "https://github.com/elder-plinius/L1B3RT4S",
-      "category": "AI 工具",
-      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
-      "tags": [
-        "1337",
-        "adversarial attacks",
-        "ai"
-      ],
-      "stars": 23274,
-      "growth": 137
+      "stars": 38193,
+      "growth": 151
     },
     {
       "name": "ai",
@@ -205,21 +179,8 @@
         "artificial intelligence",
         "gemini"
       ],
-      "stars": 27879,
-      "growth": 129
-    },
-    {
-      "name": "h4cker",
-      "url": "https://github.com/The-Art-of-Hacking/h4cker",
-      "category": "AI 工具",
-      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
-      "tags": [
-        "ai",
-        "ai security",
-        "artificial intelligence"
-      ],
-      "stars": 30166,
-      "growth": 126
+      "stars": 27907,
+      "growth": 133
     },
     {
       "name": "semantica",
@@ -231,8 +192,47 @@
         "ai",
         "ai governance"
       ],
-      "stars": 14555,
-      "growth": 115
+      "stars": 14584,
+      "growth": 132
+    },
+    {
+      "name": "L1B3RT4S",
+      "url": "https://github.com/elder-plinius/L1B3RT4S",
+      "category": "AI 工具",
+      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
+      "tags": [
+        "1337",
+        "adversarial attacks",
+        "ai"
+      ],
+      "stars": 23295,
+      "growth": 130
+    },
+    {
+      "name": "h4cker",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker",
+      "category": "AI 工具",
+      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
+      "tags": [
+        "ai",
+        "ai security",
+        "artificial intelligence"
+      ],
+      "stars": 30182,
+      "growth": 128
+    },
+    {
+      "name": "sim",
+      "url": "https://github.com/simstudioai/sim",
+      "category": "开发框架",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agent…",
+      "tags": [
+        "agent workflow",
+        "agentic workflow",
+        "agents"
+      ],
+      "stars": 30130,
+      "growth": 118
     },
     {
       "name": "awesome-ai-agents",
@@ -244,21 +244,8 @@
         "ai",
         "artificial intelligence"
       ],
-      "stars": 30907,
-      "growth": 110
-    },
-    {
-      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "category": "生成式媒体",
-      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with c…",
-      "tags": [
-        "artificial intelligence",
-        "artificial intelligence projects",
-        "awesome"
-      ],
-      "stars": 37730,
-      "growth": 96
+      "stars": 30918,
+      "growth": 105
     },
     {
       "name": "marimo",
@@ -270,8 +257,34 @@
         "dag",
         "data science"
       ],
-      "stars": 23527,
-      "growth": 95
+      "stars": 23555,
+      "growth": 103
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "category": "生成式媒体",
+      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with c…",
+      "tags": [
+        "artificial intelligence",
+        "artificial intelligence projects",
+        "awesome"
+      ],
+      "stars": 37741,
+      "growth": 98
+    },
+    {
+      "name": "repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "category": "AI 应用",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
+      "tags": [
+        "ai",
+        "anthropic",
+        "artificial intelligence"
+      ],
+      "stars": 29257,
+      "growth": 91
     },
     {
       "name": "AutoGPT",
@@ -283,21 +296,8 @@
         "agents",
         "ai"
       ],
-      "stars": 187999,
-      "growth": 91
-    },
-    {
-      "name": "InvokeAI",
-      "url": "https://github.com/invoke-ai/InvokeAI",
-      "category": "生成式媒体",
-      "description": "Invoke is a leading creative engine that uses image and video generation …",
-      "tags": [
-        "ai art",
-        "artificial intelligence",
-        "generative art"
-      ],
-      "stars": 29072,
-      "growth": 85
+      "stars": 188007,
+      "growth": 89
     },
     {
       "name": "dyad",
@@ -309,8 +309,8 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 22269,
-      "growth": 82
+      "stars": 22282,
+      "growth": 85
     }
   ]
 }
