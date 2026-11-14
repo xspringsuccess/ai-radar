@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "projects": [
     {
       "name": "claude-mem",
@@ -11,8 +11,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 116656,
-      "growth": 2962
+      "stars": 116912,
+      "growth": 2782
     },
     {
       "name": "strix",
@@ -24,8 +24,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 75223,
-      "growth": 1205
+      "stars": 75445,
+      "growth": 1278
     },
     {
       "name": "prompts.chat",
@@ -37,8 +37,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 177040,
-      "growth": 1092
+      "stars": 177147,
+      "growth": 1042
     },
     {
       "name": "OpenHands",
@@ -50,7 +50,7 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 93376,
+      "stars": 93446,
       "growth": 593
     },
     {
@@ -63,8 +63,8 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 108326,
-      "growth": 434
+      "stars": 108381,
+      "growth": 441
     },
     {
       "name": "Deep-Live-Cam",
@@ -76,8 +76,8 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 98063,
-      "growth": 416
+      "stars": 98098,
+      "growth": 381
     },
     {
       "name": "minimind",
@@ -88,8 +88,8 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 65187,
-      "growth": 258
+      "stars": 65220,
+      "growth": 263
     },
     {
       "name": "nautilus_trader",
@@ -101,8 +101,8 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31490,
-      "growth": 203
+      "stars": 31515,
+      "growth": 199
     },
     {
       "name": "cs249r_book",
@@ -114,8 +114,8 @@
         "ai agents",
         "artificial intelligence"
       ],
-      "stars": 30177,
-      "growth": 191
+      "stars": 30195,
+      "growth": 196
     },
     {
       "name": "hexstrike-ai",
@@ -127,8 +127,8 @@
         "ai",
         "ai agents"
       ],
-      "stars": 13557,
-      "growth": 167
+      "stars": 13578,
+      "growth": 172
     },
     {
       "name": "ai-guide",
@@ -140,8 +140,8 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22065,
-      "growth": 157
+      "stars": 22090,
+      "growth": 158
     },
     {
       "name": "AI-For-Beginners",
@@ -153,8 +153,8 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 70750,
-      "growth": 153
+      "stars": 70774,
+      "growth": 150
     },
     {
       "name": "Vane",
@@ -166,21 +166,8 @@
         "ai search engine",
         "answering engine"
       ],
-      "stars": 38193,
-      "growth": 151
-    },
-    {
-      "name": "ai",
-      "url": "https://github.com/vercel/ai",
-      "category": "开发框架",
-      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK i…",
-      "tags": [
-        "anthropic",
-        "artificial intelligence",
-        "gemini"
-      ],
-      "stars": 27907,
-      "growth": 133
+      "stars": 38202,
+      "growth": 149
     },
     {
       "name": "semantica",
@@ -192,8 +179,21 @@
         "ai",
         "ai governance"
       ],
-      "stars": 14584,
-      "growth": 132
+      "stars": 14602,
+      "growth": 141
+    },
+    {
+      "name": "ai",
+      "url": "https://github.com/vercel/ai",
+      "category": "开发框架",
+      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK i…",
+      "tags": [
+        "anthropic",
+        "artificial intelligence",
+        "gemini"
+      ],
+      "stars": 27929,
+      "growth": 139
     },
     {
       "name": "L1B3RT4S",
@@ -205,8 +205,8 @@
         "adversarial attacks",
         "ai"
       ],
-      "stars": 23295,
-      "growth": 130
+      "stars": 23319,
+      "growth": 135
     },
     {
       "name": "h4cker",
@@ -218,21 +218,8 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30182,
-      "growth": 128
-    },
-    {
-      "name": "sim",
-      "url": "https://github.com/simstudioai/sim",
-      "category": "开发框架",
-      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agent…",
-      "tags": [
-        "agent workflow",
-        "agentic workflow",
-        "agents"
-      ],
-      "stars": 30130,
-      "growth": 118
+      "stars": 30188,
+      "growth": 110
     },
     {
       "name": "awesome-ai-agents",
@@ -244,21 +231,8 @@
         "ai",
         "artificial intelligence"
       ],
-      "stars": 30918,
-      "growth": 105
-    },
-    {
-      "name": "marimo",
-      "url": "https://github.com/marimo-team/marimo",
-      "category": "AI 工具",
-      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
-      "tags": [
-        "artificial intelligence",
-        "dag",
-        "data science"
-      ],
-      "stars": 23555,
-      "growth": 103
+      "stars": 30933,
+      "growth": 106
     },
     {
       "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
@@ -270,8 +244,8 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37741,
-      "growth": 98
+      "stars": 37753,
+      "growth": 90
     },
     {
       "name": "repomix",
@@ -283,8 +257,8 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 29257,
-      "growth": 91
+      "stars": 29264,
+      "growth": 90
     },
     {
       "name": "AutoGPT",
@@ -296,8 +270,21 @@
         "agents",
         "ai"
       ],
-      "stars": 188007,
+      "stars": 188022,
       "growth": 89
+    },
+    {
+      "name": "marimo",
+      "url": "https://github.com/marimo-team/marimo",
+      "category": "AI 工具",
+      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
+      "tags": [
+        "artificial intelligence",
+        "dag",
+        "data science"
+      ],
+      "stars": 23543,
+      "growth": 81
     },
     {
       "name": "dyad",
@@ -309,8 +296,21 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 22282,
-      "growth": 85
+      "stars": 22293,
+      "growth": 80
+    },
+    {
+      "name": "sim",
+      "url": "https://github.com/simstudioai/sim",
+      "category": "开发框架",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agent…",
+      "tags": [
+        "agent workflow",
+        "agentic workflow",
+        "agents"
+      ],
+      "stars": 30134,
+      "growth": 78
     }
   ]
 }
