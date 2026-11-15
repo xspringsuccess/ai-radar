@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "projects": [
     {
       "name": "claude-mem",
@@ -11,8 +11,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 116912,
-      "growth": 2782
+      "stars": 117185,
+      "growth": 2577
     },
     {
       "name": "strix",
@@ -24,8 +24,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 75445,
-      "growth": 1278
+      "stars": 75618,
+      "growth": 1314
     },
     {
       "name": "prompts.chat",
@@ -37,8 +37,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 177147,
-      "growth": 1042
+      "stars": 177439,
+      "growth": 1116
     },
     {
       "name": "OpenHands",
@@ -50,8 +50,8 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 93446,
-      "growth": 593
+      "stars": 93490,
+      "growth": 571
     },
     {
       "name": "LLMs-from-scratch",
@@ -63,8 +63,8 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 108381,
-      "growth": 441
+      "stars": 108430,
+      "growth": 442
     },
     {
       "name": "Deep-Live-Cam",
@@ -76,8 +76,8 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 98098,
-      "growth": 381
+      "stars": 98130,
+      "growth": 335
     },
     {
       "name": "minimind",
@@ -88,8 +88,8 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 65220,
-      "growth": 263
+      "stars": 65236,
+      "growth": 235
     },
     {
       "name": "nautilus_trader",
@@ -101,8 +101,8 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31515,
-      "growth": 199
+      "stars": 31546,
+      "growth": 193
     },
     {
       "name": "cs249r_book",
@@ -114,21 +114,8 @@
         "ai agents",
         "artificial intelligence"
       ],
-      "stars": 30195,
-      "growth": 196
-    },
-    {
-      "name": "hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
-      "category": "开发框架",
-      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Cl…",
-      "tags": [
-        "0x4m4",
-        "ai",
-        "ai agents"
-      ],
-      "stars": 13578,
-      "growth": 172
+      "stars": 30208,
+      "growth": 192
     },
     {
       "name": "ai-guide",
@@ -140,8 +127,8 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22090,
-      "growth": 158
+      "stars": 22111,
+      "growth": 170
     },
     {
       "name": "AI-For-Beginners",
@@ -153,34 +140,21 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 70774,
-      "growth": 150
+      "stars": 70797,
+      "growth": 169
     },
     {
-      "name": "Vane",
-      "url": "https://github.com/ItzCrazyKns/Vane",
+      "name": "hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
       "category": "开发框架",
-      "description": "Vane is an AI-powered answering engine.",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Cl…",
       "tags": [
-        "ai agents",
-        "ai search engine",
-        "answering engine"
-      ],
-      "stars": 38202,
-      "growth": 149
-    },
-    {
-      "name": "semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "category": "开发框架",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "tags": [
-        "agent memory",
+        "0x4m4",
         "ai",
-        "ai governance"
+        "ai agents"
       ],
-      "stars": 14602,
-      "growth": 141
+      "stars": 13599,
+      "growth": 167
     },
     {
       "name": "ai",
@@ -192,8 +166,34 @@
         "artificial intelligence",
         "gemini"
       ],
-      "stars": 27929,
-      "growth": 139
+      "stars": 27966,
+      "growth": 161
+    },
+    {
+      "name": "Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "category": "开发框架",
+      "description": "Vane is an AI-powered answering engine.",
+      "tags": [
+        "ai agents",
+        "ai search engine",
+        "answering engine"
+      ],
+      "stars": 38213,
+      "growth": 148
+    },
+    {
+      "name": "semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "category": "开发框架",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "tags": [
+        "agent memory",
+        "ai",
+        "ai governance"
+      ],
+      "stars": 14610,
+      "growth": 137
     },
     {
       "name": "L1B3RT4S",
@@ -205,7 +205,7 @@
         "adversarial attacks",
         "ai"
       ],
-      "stars": 23319,
+      "stars": 23336,
       "growth": 135
     },
     {
@@ -218,47 +218,8 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30188,
-      "growth": 110
-    },
-    {
-      "name": "awesome-ai-agents",
-      "url": "https://github.com/e2b-dev/awesome-ai-agents",
-      "category": "开发框架",
-      "description": "A list of AI autonomous agents",
-      "tags": [
-        "agent",
-        "ai",
-        "artificial intelligence"
-      ],
-      "stars": 30933,
-      "growth": 106
-    },
-    {
-      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "category": "生成式媒体",
-      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with c…",
-      "tags": [
-        "artificial intelligence",
-        "artificial intelligence projects",
-        "awesome"
-      ],
-      "stars": 37753,
-      "growth": 90
-    },
-    {
-      "name": "repomix",
-      "url": "https://github.com/yamadashy/repomix",
-      "category": "AI 应用",
-      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
-      "tags": [
-        "ai",
-        "anthropic",
-        "artificial intelligence"
-      ],
-      "stars": 29264,
-      "growth": 90
+      "stars": 30196,
+      "growth": 101
     },
     {
       "name": "AutoGPT",
@@ -270,8 +231,47 @@
         "agents",
         "ai"
       ],
-      "stars": 188022,
-      "growth": 89
+      "stars": 188031,
+      "growth": 98
+    },
+    {
+      "name": "repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "category": "AI 应用",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
+      "tags": [
+        "ai",
+        "anthropic",
+        "artificial intelligence"
+      ],
+      "stars": 29273,
+      "growth": 91
+    },
+    {
+      "name": "awesome-ai-agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "category": "开发框架",
+      "description": "A list of AI autonomous agents",
+      "tags": [
+        "agent",
+        "ai",
+        "artificial intelligence"
+      ],
+      "stars": 30936,
+      "growth": 88
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "category": "生成式媒体",
+      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with c…",
+      "tags": [
+        "artificial intelligence",
+        "artificial intelligence projects",
+        "awesome"
+      ],
+      "stars": 37759,
+      "growth": 83
     },
     {
       "name": "marimo",
@@ -283,34 +283,34 @@
         "dag",
         "data science"
       ],
-      "stars": 23543,
-      "growth": 81
+      "stars": 23551,
+      "growth": 82
     },
     {
-      "name": "dyad",
-      "url": "https://github.com/dyad-sh/dyad",
-      "category": "模型运行",
-      "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit…",
+      "name": "API-mega-list",
+      "url": "https://github.com/cporter202/API-mega-list",
+      "category": "AI 应用",
+      "description": "This GitHub repo is a powerhouse collection of APIs you can start using i…",
       "tags": [
-        "ai app builder",
-        "anthropic",
-        "artificial intelligence"
+        "ai tools",
+        "api",
+        "api collection"
       ],
-      "stars": 22293,
-      "growth": 80
+      "stars": 8393,
+      "growth": 76
     },
     {
-      "name": "sim",
-      "url": "https://github.com/simstudioai/sim",
-      "category": "开发框架",
-      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agent…",
+      "name": "InvokeAI",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "category": "生成式媒体",
+      "description": "Invoke is a leading creative engine that uses image and video generation …",
       "tags": [
-        "agent workflow",
-        "agentic workflow",
-        "agents"
+        "ai art",
+        "artificial intelligence",
+        "generative art"
       ],
-      "stars": 30134,
-      "growth": 78
+      "stars": 29093,
+      "growth": 75
     }
   ]
 }
