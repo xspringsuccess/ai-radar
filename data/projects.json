@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
   "projects": [
     {
       "name": "claude-mem",
@@ -11,8 +11,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 117469,
-      "growth": 2398
+      "stars": 117811,
+      "growth": 2267
     },
     {
       "name": "strix",
@@ -24,8 +24,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 75833,
-      "growth": 1322
+      "stars": 76165,
+      "growth": 1408
     },
     {
       "name": "prompts.chat",
@@ -37,8 +37,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 177602,
-      "growth": 974
+      "stars": 177716,
+      "growth": 928
     },
     {
       "name": "OpenHands",
@@ -50,8 +50,20 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 93556,
-      "growth": 554
+      "stars": 93628,
+      "growth": 540
+    },
+    {
+      "name": "minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "category": "AI 工具",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "tags": [
+        "artificial intelligence",
+        "large language model"
+      ],
+      "stars": 65614,
+      "growth": 529
     },
     {
       "name": "LLMs-from-scratch",
@@ -63,20 +75,8 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 108485,
-      "growth": 431
-    },
-    {
-      "name": "minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "category": "AI 工具",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "tags": [
-        "artificial intelligence",
-        "large language model"
-      ],
-      "stars": 65388,
-      "growth": 357
+      "stars": 108540,
+      "growth": 404
     },
     {
       "name": "Deep-Live-Cam",
@@ -88,8 +88,8 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 98163,
-      "growth": 315
+      "stars": 98190,
+      "growth": 285
     },
     {
       "name": "AI-For-Beginners",
@@ -101,34 +101,8 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 70867,
-      "growth": 210
-    },
-    {
-      "name": "nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "category": "AI 工具",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driv…",
-      "tags": [
-        "algorithmic trading engine",
-        "artificial intelligence",
-        "crypto trading"
-      ],
-      "stars": 31571,
-      "growth": 185
-    },
-    {
-      "name": "ai-guide",
-      "url": "https://github.com/liyupi/ai-guide",
-      "category": "开发框架",
-      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT…",
-      "tags": [
-        "ai",
-        "ai agent",
-        "artificial intelligence"
-      ],
-      "stars": 22137,
-      "growth": 177
+      "stars": 70949,
+      "growth": 266
     },
     {
       "name": "hexstrike-ai",
@@ -140,8 +114,34 @@
         "ai",
         "ai agents"
       ],
-      "stars": 13631,
-      "growth": 175
+      "stars": 13677,
+      "growth": 189
+    },
+    {
+      "name": "ai-guide",
+      "url": "https://github.com/liyupi/ai-guide",
+      "category": "开发框架",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT…",
+      "tags": [
+        "ai",
+        "ai agent",
+        "artificial intelligence"
+      ],
+      "stars": 22168,
+      "growth": 182
+    },
+    {
+      "name": "nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "category": "AI 工具",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driv…",
+      "tags": [
+        "algorithmic trading engine",
+        "artificial intelligence",
+        "crypto trading"
+      ],
+      "stars": 31607,
+      "growth": 179
     },
     {
       "name": "ai",
@@ -153,21 +153,8 @@
         "artificial intelligence",
         "gemini"
       ],
-      "stars": 27996,
-      "growth": 169
-    },
-    {
-      "name": "cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "category": "开发框架",
-      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical …",
-      "tags": [
-        "agentic ai",
-        "ai agents",
-        "artificial intelligence"
-      ],
-      "stars": 30224,
-      "growth": 148
+      "stars": 28026,
+      "growth": 176
     },
     {
       "name": "L1B3RT4S",
@@ -179,8 +166,8 @@
         "adversarial attacks",
         "ai"
       ],
-      "stars": 23361,
-      "growth": 142
+      "stars": 23387,
+      "growth": 148
     },
     {
       "name": "semantica",
@@ -192,21 +179,21 @@
         "ai",
         "ai governance"
       ],
-      "stars": 14625,
-      "growth": 139
+      "stars": 14635,
+      "growth": 125
     },
     {
-      "name": "Vane",
-      "url": "https://github.com/ItzCrazyKns/Vane",
+      "name": "cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
       "category": "开发框架",
-      "description": "Vane is an AI-powered answering engine.",
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical …",
       "tags": [
+        "agentic ai",
         "ai agents",
-        "ai search engine",
-        "answering engine"
+        "artificial intelligence"
       ],
-      "stars": 38219,
-      "growth": 119
+      "stars": 30235,
+      "growth": 124
     },
     {
       "name": "h4cker",
@@ -218,8 +205,8 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30213,
-      "growth": 102
+      "stars": 30224,
+      "growth": 97
     },
     {
       "name": "AutoGPT",
@@ -231,8 +218,34 @@
         "agents",
         "ai"
       ],
-      "stars": 188045,
+      "stars": 188072,
+      "growth": 96
+    },
+    {
+      "name": "Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "category": "AI 工具",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
+      "tags": [
+        "artificial intelligence",
+        "book",
+        "large language models"
+      ],
+      "stars": 30194,
       "growth": 89
+    },
+    {
+      "name": "Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "category": "开发框架",
+      "description": "Vane is an AI-powered answering engine.",
+      "tags": [
+        "ai agents",
+        "ai search engine",
+        "answering engine"
+      ],
+      "stars": 38228,
+      "growth": 88
     },
     {
       "name": "awesome-ai-agents",
@@ -244,21 +257,8 @@
         "ai",
         "artificial intelligence"
       ],
-      "stars": 30948,
-      "growth": 82
-    },
-    {
-      "name": "repomix",
-      "url": "https://github.com/yamadashy/repomix",
-      "category": "AI 应用",
-      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
-      "tags": [
-        "ai",
-        "anthropic",
-        "artificial intelligence"
-      ],
-      "stars": 29281,
-      "growth": 82
+      "stars": 30966,
+      "growth": 88
     },
     {
       "name": "marimo",
@@ -270,8 +270,21 @@
         "dag",
         "data science"
       ],
-      "stars": 23558,
-      "growth": 78
+      "stars": 23578,
+      "growth": 86
+    },
+    {
+      "name": "repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "category": "AI 应用",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
+      "tags": [
+        "ai",
+        "anthropic",
+        "artificial intelligence"
+      ],
+      "stars": 29292,
+      "growth": 84
     },
     {
       "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
@@ -283,8 +296,8 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37765,
-      "growth": 76
+      "stars": 37776,
+      "growth": 81
     },
     {
       "name": "machine-learning-for-trading",
@@ -296,21 +309,8 @@
         "artificial intelligence",
         "backtesting"
       ],
-      "stars": 21833,
-      "growth": 70
-    },
-    {
-      "name": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-      "url": "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning",
-      "category": "AI 工具",
-      "description": "This is the homepage of a new book entitled \"Mathematical Foundations of …",
-      "tags": [
-        "artificial intelligence",
-        "book",
-        "courses"
-      ],
-      "stars": 18522,
-      "growth": 66
+      "stars": 21848,
+      "growth": 77
     }
   ]
 }
