@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "projects": [
     {
       "name": "claude-mem",
@@ -11,8 +11,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 118082,
-      "growth": 2126
+      "stars": 118305,
+      "growth": 1966
     },
     {
       "name": "strix",
@@ -24,20 +24,20 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 76400,
-      "growth": 1490
+      "stars": 76596,
+      "growth": 1519
     },
     {
       "name": "minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "category": "AI 工具",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "tags": [
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 66312,
-      "growth": 1199
+      "stars": 66584,
+      "growth": 1431
     },
     {
       "name": "prompts.chat",
@@ -49,8 +49,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 177778,
-      "growth": 909
+      "stars": 177855,
+      "growth": 904
     },
     {
       "name": "OpenHands",
@@ -62,8 +62,8 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 93718,
-      "growth": 537
+      "stars": 93807,
+      "growth": 517
     },
     {
       "name": "LLMs-from-scratch",
@@ -75,8 +75,8 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 108591,
-      "growth": 375
+      "stars": 108646,
+      "growth": 377
     },
     {
       "name": "AI-For-Beginners",
@@ -88,8 +88,8 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 70998,
-      "growth": 286
+      "stars": 71024,
+      "growth": 298
     },
     {
       "name": "Deep-Live-Cam",
@@ -101,8 +101,8 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 98234,
-      "growth": 254
+      "stars": 98252,
+      "growth": 230
     },
     {
       "name": "nautilus_trader",
@@ -114,21 +114,8 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31658,
-      "growth": 207
-    },
-    {
-      "name": "ai",
-      "url": "https://github.com/vercel/ai",
-      "category": "开发框架",
-      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK i…",
-      "tags": [
-        "anthropic",
-        "artificial intelligence",
-        "gemini"
-      ],
-      "stars": 28061,
-      "growth": 199
+      "stars": 31677,
+      "growth": 203
     },
     {
       "name": "hexstrike-ai",
@@ -140,8 +127,21 @@
         "ai",
         "ai agents"
       ],
-      "stars": 13710,
-      "growth": 199
+      "stars": 13740,
+      "growth": 202
+    },
+    {
+      "name": "ai",
+      "url": "https://github.com/vercel/ai",
+      "category": "开发框架",
+      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK i…",
+      "tags": [
+        "anthropic",
+        "artificial intelligence",
+        "gemini"
+      ],
+      "stars": 28079,
+      "growth": 200
     },
     {
       "name": "ai-guide",
@@ -153,8 +153,8 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22195,
-      "growth": 188
+      "stars": 22219,
+      "growth": 190
     },
     {
       "name": "L1B3RT4S",
@@ -166,8 +166,8 @@
         "adversarial attacks",
         "ai"
       ],
-      "stars": 23400,
-      "growth": 144
+      "stars": 23414,
+      "growth": 140
     },
     {
       "name": "semantica",
@@ -179,21 +179,8 @@
         "ai",
         "ai governance"
       ],
-      "stars": 14651,
-      "growth": 122
-    },
-    {
-      "name": "cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "category": "开发框架",
-      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical …",
-      "tags": [
-        "agentic ai",
-        "ai agents",
-        "artificial intelligence"
-      ],
-      "stars": 30251,
-      "growth": 116
+      "stars": 14664,
+      "growth": 109
     },
     {
       "name": "machine-learning-for-trading",
@@ -205,21 +192,21 @@
         "artificial intelligence",
         "backtesting"
       ],
-      "stars": 21882,
-      "growth": 103
+      "stars": 21898,
+      "growth": 108
     },
     {
-      "name": "h4cker",
-      "url": "https://github.com/The-Art-of-Hacking/h4cker",
-      "category": "AI 工具",
-      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
+      "name": "cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "category": "开发框架",
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical …",
       "tags": [
-        "ai",
-        "ai security",
+        "agentic ai",
+        "ai agents",
         "artificial intelligence"
       ],
-      "stars": 30243,
-      "growth": 102
+      "stars": 30264,
+      "growth": 107
     },
     {
       "name": "AutoGPT",
@@ -231,21 +218,8 @@
         "agents",
         "ai"
       ],
-      "stars": 188082,
-      "growth": 92
-    },
-    {
-      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "category": "生成式媒体",
-      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with c…",
-      "tags": [
-        "artificial intelligence",
-        "artificial intelligence projects",
-        "awesome"
-      ],
-      "stars": 37803,
-      "growth": 89
+      "stars": 188098,
+      "growth": 99
     },
     {
       "name": "marimo",
@@ -257,21 +231,21 @@
         "dag",
         "data science"
       ],
-      "stars": 23598,
-      "growth": 88
+      "stars": 23622,
+      "growth": 95
     },
     {
-      "name": "Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "name": "h4cker",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker",
       "category": "AI 工具",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
+      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
       "tags": [
-        "artificial intelligence",
-        "book",
-        "large language models"
+        "ai",
+        "ai security",
+        "artificial intelligence"
       ],
-      "stars": 30203,
-      "growth": 87
+      "stars": 30258,
+      "growth": 92
     },
     {
       "name": "repomix",
@@ -283,21 +257,34 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 29310,
-      "growth": 84
+      "stars": 29331,
+      "growth": 91
     },
     {
-      "name": "Vane",
-      "url": "https://github.com/ItzCrazyKns/Vane",
-      "category": "开发框架",
-      "description": "Vane is an AI-powered answering engine.",
+      "name": "Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "category": "AI 工具",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
       "tags": [
-        "ai agents",
-        "ai search engine",
-        "answering engine"
+        "artificial intelligence",
+        "book",
+        "large language models"
       ],
-      "stars": 38240,
-      "growth": 83
+      "stars": 30212,
+      "growth": 90
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "category": "生成式媒体",
+      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with c…",
+      "tags": [
+        "artificial intelligence",
+        "artificial intelligence projects",
+        "awesome"
+      ],
+      "stars": 37810,
+      "growth": 80
     },
     {
       "name": "awesome-ai-agents",
@@ -309,8 +296,21 @@
         "ai",
         "artificial intelligence"
       ],
-      "stars": 30974,
-      "growth": 83
+      "stars": 30980,
+      "growth": 73
+    },
+    {
+      "name": "Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "category": "开发框架",
+      "description": "Vane is an AI-powered answering engine.",
+      "tags": [
+        "ai agents",
+        "ai search engine",
+        "answering engine"
+      ],
+      "stars": 38252,
+      "growth": 72
     }
   ]
 }
