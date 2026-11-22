@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "projects": [
     {
       "name": "minimind",
@@ -10,8 +10,8 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 67857,
-      "growth": 2637
+      "stars": 68289,
+      "growth": 3053
     },
     {
       "name": "claude-mem",
@@ -23,8 +23,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 118719,
-      "growth": 1807
+      "stars": 118907,
+      "growth": 1722
     },
     {
       "name": "strix",
@@ -36,8 +36,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 76854,
-      "growth": 1409
+      "stars": 76955,
+      "growth": 1337
     },
     {
       "name": "prompts.chat",
@@ -49,8 +49,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 178103,
-      "growth": 956
+      "stars": 178222,
+      "growth": 783
     },
     {
       "name": "OpenHands",
@@ -62,8 +62,8 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 93938,
-      "growth": 492
+      "stars": 93990,
+      "growth": 500
     },
     {
       "name": "Deep-Live-Cam",
@@ -75,8 +75,8 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 98513,
-      "growth": 415
+      "stars": 98591,
+      "growth": 461
     },
     {
       "name": "LLMs-from-scratch",
@@ -88,8 +88,8 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 108733,
-      "growth": 352
+      "stars": 108794,
+      "growth": 364
     },
     {
       "name": "AI-For-Beginners",
@@ -101,8 +101,8 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 71064,
-      "growth": 290
+      "stars": 71146,
+      "growth": 349
     },
     {
       "name": "hexstrike-ai",
@@ -114,8 +114,8 @@
         "ai",
         "ai agents"
       ],
-      "stars": 13796,
-      "growth": 218
+      "stars": 13812,
+      "growth": 213
     },
     {
       "name": "nautilus_trader",
@@ -127,20 +127,7 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31717,
-      "growth": 202
-    },
-    {
-      "name": "ai",
-      "url": "https://github.com/vercel/ai",
-      "category": "开发框架",
-      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK i…",
-      "tags": [
-        "anthropic",
-        "artificial intelligence",
-        "gemini"
-      ],
-      "stars": 28117,
+      "stars": 31734,
       "growth": 188
     },
     {
@@ -153,21 +140,21 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22270,
-      "growth": 180
+      "stars": 22289,
+      "growth": 178
     },
     {
-      "name": "L1B3RT4S",
-      "url": "https://github.com/elder-plinius/L1B3RT4S",
-      "category": "AI 工具",
-      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
+      "name": "ai",
+      "url": "https://github.com/vercel/ai",
+      "category": "开发框架",
+      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK i…",
       "tags": [
-        "1337",
-        "adversarial attacks",
-        "ai"
+        "anthropic",
+        "artificial intelligence",
+        "gemini"
       ],
-      "stars": 23442,
-      "growth": 123
+      "stars": 28121,
+      "growth": 155
     },
     {
       "name": "DragGAN",
@@ -179,8 +166,8 @@
         "generative adversarial network",
         "generative models"
       ],
-      "stars": 35819,
-      "growth": 122
+      "stars": 35828,
+      "growth": 133
     },
     {
       "name": "marimo",
@@ -192,7 +179,20 @@
         "dag",
         "data science"
       ],
-      "stars": 23661,
+      "stars": 23682,
+      "growth": 131
+    },
+    {
+      "name": "L1B3RT4S",
+      "url": "https://github.com/elder-plinius/L1B3RT4S",
+      "category": "AI 工具",
+      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
+      "tags": [
+        "1337",
+        "adversarial attacks",
+        "ai"
+      ],
+      "stars": 23454,
       "growth": 118
     },
     {
@@ -205,21 +205,8 @@
         "artificial intelligence",
         "backtesting"
       ],
-      "stars": 21925,
-      "growth": 115
-    },
-    {
-      "name": "AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "category": "生成式媒体",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
-      "tags": [
-        "agentic ai",
-        "agents",
-        "ai"
-      ],
-      "stars": 188122,
-      "growth": 100
+      "stars": 21938,
+      "growth": 118
     },
     {
       "name": "h4cker",
@@ -231,34 +218,8 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30283,
-      "growth": 95
-    },
-    {
-      "name": "Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "category": "AI 工具",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
-      "tags": [
-        "artificial intelligence",
-        "book",
-        "large language models"
-      ],
-      "stars": 30230,
-      "growth": 94
-    },
-    {
-      "name": "repomix",
-      "url": "https://github.com/yamadashy/repomix",
-      "category": "AI 应用",
-      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
-      "tags": [
-        "ai",
-        "anthropic",
-        "artificial intelligence"
-      ],
-      "stars": 29358,
-      "growth": 94
+      "stars": 30302,
+      "growth": 106
     },
     {
       "name": "semantica",
@@ -270,21 +231,47 @@
         "ai",
         "ai governance"
       ],
-      "stars": 14695,
-      "growth": 93
+      "stars": 14713,
+      "growth": 103
     },
     {
-      "name": "cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "category": "开发框架",
-      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical …",
+      "name": "repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "category": "AI 应用",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
       "tags": [
-        "agentic ai",
-        "ai agents",
+        "ai",
+        "anthropic",
         "artificial intelligence"
       ],
-      "stars": 30279,
-      "growth": 84
+      "stars": 29373,
+      "growth": 100
+    },
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "category": "生成式媒体",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
+      "tags": [
+        "agentic ai",
+        "agents",
+        "ai"
+      ],
+      "stars": 188127,
+      "growth": 96
+    },
+    {
+      "name": "Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "category": "AI 工具",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
+      "tags": [
+        "artificial intelligence",
+        "book",
+        "large language models"
+      ],
+      "stars": 30237,
+      "growth": 95
     },
     {
       "name": "awesome-ai-agents",
@@ -296,8 +283,8 @@
         "ai",
         "artificial intelligence"
       ],
-      "stars": 31013,
-      "growth": 80
+      "stars": 31021,
+      "growth": 85
     },
     {
       "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
@@ -309,8 +296,21 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37832,
-      "growth": 79
+      "stars": 37843,
+      "growth": 84
+    },
+    {
+      "name": "cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "category": "开发框架",
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical …",
+      "tags": [
+        "agentic ai",
+        "ai agents",
+        "artificial intelligence"
+      ],
+      "stars": 30285,
+      "growth": 77
     }
   ]
 }
