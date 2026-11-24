@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "projects": [
     {
       "name": "minimind",
@@ -10,8 +10,8 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 69102,
-      "growth": 3714
+      "stars": 69868,
+      "growth": 4254
     },
     {
       "name": "claude-mem",
@@ -23,8 +23,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 119163,
-      "growth": 1694
+      "stars": 119424,
+      "growth": 1613
     },
     {
       "name": "strix",
@@ -36,8 +36,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 77151,
-      "growth": 1318
+      "stars": 77341,
+      "growth": 1176
     },
     {
       "name": "TokenEconomizer",
@@ -49,21 +49,8 @@
         "agentic coding",
         "ai coding"
       ],
-      "stars": 7987,
-      "growth": 1205
-    },
-    {
-      "name": "prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "category": "AI 应用",
-      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from…",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "awesome list"
-      ],
-      "stars": 178302,
-      "growth": 700
+      "stars": 8057,
+      "growth": 712
     },
     {
       "name": "Deep-Live-Cam",
@@ -75,8 +62,21 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 98755,
-      "growth": 592
+      "stars": 98860,
+      "growth": 670
+    },
+    {
+      "name": "prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "category": "AI 应用",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from…",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "awesome list"
+      ],
+      "stars": 178355,
+      "growth": 639
     },
     {
       "name": "OpenHands",
@@ -88,8 +88,8 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 94121,
-      "growth": 565
+      "stars": 94208,
+      "growth": 580
     },
     {
       "name": "LLMs-from-scratch",
@@ -101,8 +101,8 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 108883,
-      "growth": 398
+      "stars": 108963,
+      "growth": 423
     },
     {
       "name": "AI-For-Beginners",
@@ -114,8 +114,8 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 71185,
-      "growth": 318
+      "stars": 71226,
+      "growth": 277
     },
     {
       "name": "hexstrike-ai",
@@ -127,8 +127,8 @@
         "ai",
         "ai agents"
       ],
-      "stars": 13834,
-      "growth": 203
+      "stars": 13861,
+      "growth": 184
     },
     {
       "name": "ai-guide",
@@ -140,33 +140,7 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22323,
-      "growth": 186
-    },
-    {
-      "name": "Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "category": "AI 工具",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
-      "tags": [
-        "artificial intelligence",
-        "book",
-        "large language models"
-      ],
-      "stars": 30347,
-      "growth": 185
-    },
-    {
-      "name": "nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "category": "AI 工具",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driv…",
-      "tags": [
-        "algorithmic trading engine",
-        "artificial intelligence",
-        "crypto trading"
-      ],
-      "stars": 31754,
+      "stars": 22351,
       "growth": 183
     },
     {
@@ -179,21 +153,34 @@
         "artificial intelligence",
         "backtesting"
       ],
-      "stars": 21986,
-      "growth": 153
+      "stars": 22028,
+      "growth": 180
     },
     {
-      "name": "marimo",
-      "url": "https://github.com/marimo-team/marimo",
+      "name": "Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "category": "AI 工具",
-      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Model…",
       "tags": [
         "artificial intelligence",
-        "dag",
-        "data science"
+        "book",
+        "large language models"
       ],
-      "stars": 23705,
-      "growth": 147
+      "stars": 30369,
+      "growth": 175
+    },
+    {
+      "name": "nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "category": "AI 工具",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driv…",
+      "tags": [
+        "algorithmic trading engine",
+        "artificial intelligence",
+        "crypto trading"
+      ],
+      "stars": 31773,
+      "growth": 166
     },
     {
       "name": "DragGAN",
@@ -205,7 +192,20 @@
         "generative adversarial network",
         "generative models"
       ],
-      "stars": 35832,
+      "stars": 35830,
+      "growth": 140
+    },
+    {
+      "name": "marimo",
+      "url": "https://github.com/marimo-team/marimo",
+      "category": "AI 工具",
+      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
+      "tags": [
+        "artificial intelligence",
+        "dag",
+        "data science"
+      ],
+      "stars": 23718,
       "growth": 140
     },
     {
@@ -218,34 +218,8 @@
         "artificial intelligence",
         "gemini"
       ],
-      "stars": 28135,
-      "growth": 139
-    },
-    {
-      "name": "h4cker",
-      "url": "https://github.com/The-Art-of-Hacking/h4cker",
-      "category": "AI 工具",
-      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
-      "tags": [
-        "ai",
-        "ai security",
-        "artificial intelligence"
-      ],
-      "stars": 30339,
-      "growth": 126
-    },
-    {
-      "name": "L1B3RT4S",
-      "url": "https://github.com/elder-plinius/L1B3RT4S",
-      "category": "AI 工具",
-      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
-      "tags": [
-        "1337",
-        "adversarial attacks",
-        "ai"
-      ],
-      "stars": 23480,
-      "growth": 119
+      "stars": 28162,
+      "growth": 136
     },
     {
       "name": "semantica",
@@ -257,8 +231,21 @@
         "ai",
         "ai governance"
       ],
-      "stars": 14740,
-      "growth": 115
+      "stars": 14770,
+      "growth": 135
+    },
+    {
+      "name": "h4cker",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker",
+      "category": "AI 工具",
+      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
+      "tags": [
+        "ai",
+        "ai security",
+        "artificial intelligence"
+      ],
+      "stars": 30353,
+      "growth": 129
     },
     {
       "name": "repomix",
@@ -270,21 +257,8 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 29394,
-      "growth": 113
-    },
-    {
-      "name": "AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "category": "生成式媒体",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
-      "tags": [
-        "agentic ai",
-        "agents",
-        "ai"
-      ],
-      "stars": 188148,
-      "growth": 103
+      "stars": 29412,
+      "growth": 120
     },
     {
       "name": "dyad",
@@ -296,8 +270,21 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 22394,
-      "growth": 94
+      "stars": 22431,
+      "growth": 116
+    },
+    {
+      "name": "L1B3RT4S",
+      "url": "https://github.com/elder-plinius/L1B3RT4S",
+      "category": "AI 工具",
+      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
+      "tags": [
+        "1337",
+        "adversarial attacks",
+        "ai"
+      ],
+      "stars": 23497,
+      "growth": 110
     },
     {
       "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
@@ -309,8 +296,21 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37858,
-      "growth": 93
+      "stars": 37876,
+      "growth": 100
+    },
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "category": "生成式媒体",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
+      "tags": [
+        "agentic ai",
+        "agents",
+        "ai"
+      ],
+      "stars": 188159,
+      "growth": 87
     }
   ]
 }
