@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "projects": [
     {
       "name": "minimind",
@@ -10,8 +10,8 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 70643,
-      "growth": 4331
+      "stars": 71325,
+      "growth": 4741
     },
     {
       "name": "claude-mem",
@@ -23,8 +23,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 119639,
-      "growth": 1557
+      "stars": 119853,
+      "growth": 1548
     },
     {
       "name": "strix",
@@ -36,8 +36,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 77505,
-      "growth": 1105
+      "stars": 77668,
+      "growth": 1072
     },
     {
       "name": "prompts.chat",
@@ -49,8 +49,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 178486,
-      "growth": 708
+      "stars": 178548,
+      "growth": 693
     },
     {
       "name": "Deep-Live-Cam",
@@ -62,8 +62,8 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 98900,
-      "growth": 666
+      "stars": 98939,
+      "growth": 687
     },
     {
       "name": "OpenHands",
@@ -75,21 +75,8 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 94296,
-      "growth": 578
-    },
-    {
-      "name": "TokenEconomizer",
-      "url": "https://github.com/microsoft/TokenEconomizer",
-      "category": "开发框架",
-      "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
-      "tags": [
-        "agentic ai",
-        "agentic coding",
-        "ai coding"
-      ],
-      "stars": 8102,
-      "growth": 527
+      "stars": 94378,
+      "growth": 571
     },
     {
       "name": "LLMs-from-scratch",
@@ -101,8 +88,21 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 109020,
-      "growth": 429
+      "stars": 109073,
+      "growth": 427
+    },
+    {
+      "name": "TokenEconomizer",
+      "url": "https://github.com/microsoft/TokenEconomizer",
+      "category": "开发框架",
+      "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
+      "tags": [
+        "agentic ai",
+        "agentic coding",
+        "ai coding"
+      ],
+      "stars": 8128,
+      "growth": 409
     },
     {
       "name": "AI-For-Beginners",
@@ -114,8 +114,8 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 71247,
-      "growth": 249
+      "stars": 71270,
+      "growth": 246
     },
     {
       "name": "Hands-On-Large-Language-Models",
@@ -127,8 +127,8 @@
         "book",
         "large language models"
       ],
-      "stars": 30400,
-      "growth": 197
+      "stars": 30417,
+      "growth": 205
     },
     {
       "name": "ai-guide",
@@ -140,8 +140,8 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22381,
-      "growth": 186
+      "stars": 22406,
+      "growth": 187
     },
     {
       "name": "hexstrike-ai",
@@ -153,8 +153,8 @@
         "ai",
         "ai agents"
       ],
-      "stars": 13893,
-      "growth": 183
+      "stars": 13924,
+      "growth": 184
     },
     {
       "name": "machine-learning-for-trading",
@@ -166,8 +166,8 @@
         "artificial intelligence",
         "backtesting"
       ],
-      "stars": 22049,
-      "growth": 167
+      "stars": 22064,
+      "growth": 166
     },
     {
       "name": "semantica",
@@ -179,21 +179,8 @@
         "ai",
         "ai governance"
       ],
-      "stars": 14802,
-      "growth": 151
-    },
-    {
-      "name": "DragGAN",
-      "url": "https://github.com/XingangPan/DragGAN",
-      "category": "生成式媒体",
-      "description": "Official Code for DragGAN (SIGGRAPH 2023)",
-      "tags": [
-        "artificial intelligence",
-        "generative adversarial network",
-        "generative models"
-      ],
-      "stars": 35831,
-      "growth": 144
+      "stars": 14823,
+      "growth": 159
     },
     {
       "name": "nautilus_trader",
@@ -205,47 +192,8 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31801,
-      "growth": 143
-    },
-    {
-      "name": "marimo",
-      "url": "https://github.com/marimo-team/marimo",
-      "category": "AI 工具",
-      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
-      "tags": [
-        "artificial intelligence",
-        "dag",
-        "data science"
-      ],
-      "stars": 23738,
-      "growth": 140
-    },
-    {
-      "name": "h4cker",
-      "url": "https://github.com/The-Art-of-Hacking/h4cker",
-      "category": "AI 工具",
-      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
-      "tags": [
-        "ai",
-        "ai security",
-        "artificial intelligence"
-      ],
-      "stars": 30376,
-      "growth": 133
-    },
-    {
-      "name": "dyad",
-      "url": "https://github.com/dyad-sh/dyad",
-      "category": "模型运行",
-      "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit…",
-      "tags": [
-        "ai app builder",
-        "anthropic",
-        "artificial intelligence"
-      ],
-      "stars": 22447,
-      "growth": 130
+      "stars": 31831,
+      "growth": 154
     },
     {
       "name": "ai",
@@ -257,21 +205,60 @@
         "artificial intelligence",
         "gemini"
       ],
-      "stars": 28187,
-      "growth": 126
+      "stars": 28227,
+      "growth": 148
     },
     {
-      "name": "repomix",
-      "url": "https://github.com/yamadashy/repomix",
-      "category": "AI 应用",
-      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
+      "name": "DragGAN",
+      "url": "https://github.com/XingangPan/DragGAN",
+      "category": "生成式媒体",
+      "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+      "tags": [
+        "artificial intelligence",
+        "generative adversarial network",
+        "generative models"
+      ],
+      "stars": 35832,
+      "growth": 147
+    },
+    {
+      "name": "h4cker",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker",
+      "category": "AI 工具",
+      "description": "This repository is maintained by Omar Santos (@santosomar) and includes t…",
       "tags": [
         "ai",
+        "ai security",
+        "artificial intelligence"
+      ],
+      "stars": 30390,
+      "growth": 132
+    },
+    {
+      "name": "marimo",
+      "url": "https://github.com/marimo-team/marimo",
+      "category": "AI 工具",
+      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
+      "tags": [
+        "artificial intelligence",
+        "dag",
+        "data science"
+      ],
+      "stars": 23752,
+      "growth": 130
+    },
+    {
+      "name": "dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "category": "模型运行",
+      "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit…",
+      "tags": [
+        "ai app builder",
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 29430,
-      "growth": 120
+      "stars": 22454,
+      "growth": 127
     },
     {
       "name": "L1B3RT4S",
@@ -283,8 +270,21 @@
         "adversarial attacks",
         "ai"
       ],
-      "stars": 23516,
-      "growth": 116
+      "stars": 23538,
+      "growth": 124
+    },
+    {
+      "name": "repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "category": "AI 应用",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a si…",
+      "tags": [
+        "ai",
+        "anthropic",
+        "artificial intelligence"
+      ],
+      "stars": 29440,
+      "growth": 109
     },
     {
       "name": "AutoGPT",
@@ -296,8 +296,8 @@
         "agents",
         "ai"
       ],
-      "stars": 188181,
-      "growth": 99
+      "stars": 188204,
+      "growth": 106
     },
     {
       "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
@@ -309,8 +309,8 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37889,
-      "growth": 86
+      "stars": 37907,
+      "growth": 97
     }
   ]
 }
