@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "projects": [
     {
       "name": "minimind",
@@ -10,8 +10,8 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 71325,
-      "growth": 4741
+      "stars": 71971,
+      "growth": 4667
     },
     {
       "name": "claude-mem",
@@ -23,8 +23,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 119853,
-      "growth": 1548
+      "stars": 120080,
+      "growth": 1565
     },
     {
       "name": "strix",
@@ -36,8 +36,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 77668,
-      "growth": 1072
+      "stars": 77874,
+      "growth": 1136
     },
     {
       "name": "prompts.chat",
@@ -49,8 +49,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 178548,
-      "growth": 693
+      "stars": 178643,
+      "growth": 713
     },
     {
       "name": "Deep-Live-Cam",
@@ -62,8 +62,8 @@
         "ai deep fake",
         "ai face"
       ],
-      "stars": 98939,
-      "growth": 687
+      "stars": 98968,
+      "growth": 609
     },
     {
       "name": "OpenHands",
@@ -75,8 +75,8 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 94378,
-      "growth": 571
+      "stars": 94440,
+      "growth": 561
     },
     {
       "name": "LLMs-from-scratch",
@@ -88,7 +88,7 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 109073,
+      "stars": 109115,
       "growth": 427
     },
     {
@@ -101,8 +101,8 @@
         "agentic coding",
         "ai coding"
       ],
-      "stars": 8128,
-      "growth": 409
+      "stars": 8154,
+      "growth": 352
     },
     {
       "name": "AI-For-Beginners",
@@ -114,8 +114,8 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 71270,
-      "growth": 246
+      "stars": 71293,
+      "growth": 259
     },
     {
       "name": "Hands-On-Large-Language-Models",
@@ -127,8 +127,8 @@
         "book",
         "large language models"
       ],
-      "stars": 30417,
-      "growth": 205
+      "stars": 30428,
+      "growth": 212
     },
     {
       "name": "ai-guide",
@@ -140,8 +140,8 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22406,
-      "growth": 187
+      "stars": 22436,
+      "growth": 179
     },
     {
       "name": "hexstrike-ai",
@@ -153,21 +153,8 @@
         "ai",
         "ai agents"
       ],
-      "stars": 13924,
-      "growth": 184
-    },
-    {
-      "name": "machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "category": "开发框架",
-      "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing t…",
-      "tags": [
-        "algorithmic trading",
-        "artificial intelligence",
-        "backtesting"
-      ],
-      "stars": 22064,
-      "growth": 166
+      "stars": 13952,
+      "growth": 179
     },
     {
       "name": "semantica",
@@ -179,8 +166,21 @@
         "ai",
         "ai governance"
       ],
-      "stars": 14823,
-      "growth": 159
+      "stars": 14854,
+      "growth": 175
+    },
+    {
+      "name": "machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "category": "开发框架",
+      "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing t…",
+      "tags": [
+        "algorithmic trading",
+        "artificial intelligence",
+        "backtesting"
+      ],
+      "stars": 22088,
+      "growth": 170
     },
     {
       "name": "nautilus_trader",
@@ -192,21 +192,8 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31831,
-      "growth": 154
-    },
-    {
-      "name": "ai",
-      "url": "https://github.com/vercel/ai",
-      "category": "开发框架",
-      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK i…",
-      "tags": [
-        "anthropic",
-        "artificial intelligence",
-        "gemini"
-      ],
-      "stars": 28227,
-      "growth": 148
+      "stars": 31853,
+      "growth": 155
     },
     {
       "name": "DragGAN",
@@ -222,6 +209,19 @@
       "growth": 147
     },
     {
+      "name": "ai",
+      "url": "https://github.com/vercel/ai",
+      "category": "开发框架",
+      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK i…",
+      "tags": [
+        "anthropic",
+        "artificial intelligence",
+        "gemini"
+      ],
+      "stars": 28246,
+      "growth": 144
+    },
+    {
       "name": "h4cker",
       "url": "https://github.com/The-Art-of-Hacking/h4cker",
       "category": "AI 工具",
@@ -231,8 +231,8 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30390,
-      "growth": 132
+      "stars": 30404,
+      "growth": 133
     },
     {
       "name": "marimo",
@@ -244,8 +244,8 @@
         "dag",
         "data science"
       ],
-      "stars": 23752,
-      "growth": 130
+      "stars": 23770,
+      "growth": 133
     },
     {
       "name": "dyad",
@@ -257,8 +257,8 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 22454,
-      "growth": 127
+      "stars": 22465,
+      "growth": 133
     },
     {
       "name": "L1B3RT4S",
@@ -270,8 +270,8 @@
         "adversarial attacks",
         "ai"
       ],
-      "stars": 23538,
-      "growth": 124
+      "stars": 23552,
+      "growth": 128
     },
     {
       "name": "repomix",
@@ -283,21 +283,8 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 29440,
-      "growth": 109
-    },
-    {
-      "name": "AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "category": "生成式媒体",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
-      "tags": [
-        "agentic ai",
-        "agents",
-        "ai"
-      ],
-      "stars": 188204,
-      "growth": 106
+      "stars": 29468,
+      "growth": 119
     },
     {
       "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
@@ -309,8 +296,21 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37907,
-      "growth": 97
+      "stars": 37913,
+      "growth": 93
+    },
+    {
+      "name": "awesome-ai-agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "category": "开发框架",
+      "description": "A list of AI autonomous agents",
+      "tags": [
+        "agent",
+        "ai",
+        "artificial intelligence"
+      ],
+      "stars": 31089,
+      "growth": 91
     }
   ]
 }
