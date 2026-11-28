@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "projects": [
     {
       "name": "minimind",
@@ -10,8 +10,8 @@
         "artificial intelligence",
         "large language model"
       ],
-      "stars": 71971,
-      "growth": 4667
+      "stars": 72354,
+      "growth": 4497
     },
     {
       "name": "claude-mem",
@@ -23,8 +23,8 @@
         "ai agents",
         "ai memory"
       ],
-      "stars": 120080,
-      "growth": 1565
+      "stars": 120286,
+      "growth": 1567
     },
     {
       "name": "strix",
@@ -36,8 +36,8 @@
         "ai hacking",
         "ai penetration testing"
       ],
-      "stars": 77874,
-      "growth": 1136
+      "stars": 78067,
+      "growth": 1213
     },
     {
       "name": "prompts.chat",
@@ -49,21 +49,8 @@
         "artificial intelligence",
         "awesome list"
       ],
-      "stars": 178643,
-      "growth": 713
-    },
-    {
-      "name": "Deep-Live-Cam",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "category": "生成式媒体",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "tags": [
-        "ai",
-        "ai deep fake",
-        "ai face"
-      ],
-      "stars": 98968,
-      "growth": 609
+      "stars": 178734,
+      "growth": 631
     },
     {
       "name": "OpenHands",
@@ -75,8 +62,21 @@
         "artificial intelligence",
         "chatgpt"
       ],
-      "stars": 94440,
-      "growth": 561
+      "stars": 94483,
+      "growth": 545
+    },
+    {
+      "name": "Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "category": "生成式媒体",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "tags": [
+        "ai",
+        "ai deep fake",
+        "ai face"
+      ],
+      "stars": 98980,
+      "growth": 467
     },
     {
       "name": "LLMs-from-scratch",
@@ -88,8 +88,8 @@
         "artificial intelligence",
         "attention mechanism"
       ],
-      "stars": 109115,
-      "growth": 427
+      "stars": 109175,
+      "growth": 442
     },
     {
       "name": "TokenEconomizer",
@@ -101,8 +101,8 @@
         "agentic coding",
         "ai coding"
       ],
-      "stars": 8154,
-      "growth": 352
+      "stars": 8182,
+      "growth": 325
     },
     {
       "name": "AI-For-Beginners",
@@ -114,8 +114,8 @@
         "artificial intelligence",
         "cnn"
       ],
-      "stars": 71293,
-      "growth": 259
+      "stars": 71321,
+      "growth": 257
     },
     {
       "name": "Hands-On-Large-Language-Models",
@@ -127,8 +127,8 @@
         "book",
         "large language models"
       ],
-      "stars": 30428,
-      "growth": 212
+      "stars": 30429,
+      "growth": 199
     },
     {
       "name": "ai-guide",
@@ -140,34 +140,8 @@
         "ai agent",
         "artificial intelligence"
       ],
-      "stars": 22436,
-      "growth": 179
-    },
-    {
-      "name": "hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
-      "category": "开发框架",
-      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Cl…",
-      "tags": [
-        "0x4m4",
-        "ai",
-        "ai agents"
-      ],
-      "stars": 13952,
-      "growth": 179
-    },
-    {
-      "name": "semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "category": "开发框架",
-      "description": "Graph-Native Semantic Layer for Trustworthy Enterprise AI",
-      "tags": [
-        "agent memory",
-        "ai",
-        "ai governance"
-      ],
-      "stars": 14854,
-      "growth": 175
+      "stars": 22461,
+      "growth": 191
     },
     {
       "name": "machine-learning-for-trading",
@@ -179,8 +153,34 @@
         "artificial intelligence",
         "backtesting"
       ],
-      "stars": 22088,
-      "growth": 170
+      "stars": 22107,
+      "growth": 182
+    },
+    {
+      "name": "semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "category": "开发框架",
+      "description": "Graph-Native Semantic Layer for Trustworthy Enterprise AI",
+      "tags": [
+        "agent memory",
+        "ai",
+        "ai governance"
+      ],
+      "stars": 14875,
+      "growth": 180
+    },
+    {
+      "name": "hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "category": "开发框架",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Cl…",
+      "tags": [
+        "0x4m4",
+        "ai",
+        "ai agents"
+      ],
+      "stars": 13970,
+      "growth": 174
     },
     {
       "name": "nautilus_trader",
@@ -192,21 +192,8 @@
         "artificial intelligence",
         "crypto trading"
       ],
-      "stars": 31853,
-      "growth": 155
-    },
-    {
-      "name": "DragGAN",
-      "url": "https://github.com/XingangPan/DragGAN",
-      "category": "生成式媒体",
-      "description": "Official Code for DragGAN (SIGGRAPH 2023)",
-      "tags": [
-        "artificial intelligence",
-        "generative adversarial network",
-        "generative models"
-      ],
-      "stars": 35832,
-      "growth": 147
+      "stars": 31874,
+      "growth": 157
     },
     {
       "name": "ai",
@@ -218,8 +205,8 @@
         "artificial intelligence",
         "gemini"
       ],
-      "stars": 28246,
-      "growth": 144
+      "stars": 28258,
+      "growth": 141
     },
     {
       "name": "h4cker",
@@ -231,21 +218,8 @@
         "ai security",
         "artificial intelligence"
       ],
-      "stars": 30404,
-      "growth": 133
-    },
-    {
-      "name": "marimo",
-      "url": "https://github.com/marimo-team/marimo",
-      "category": "AI 工具",
-      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
-      "tags": [
-        "artificial intelligence",
-        "dag",
-        "data science"
-      ],
-      "stars": 23770,
-      "growth": 133
+      "stars": 30414,
+      "growth": 131
     },
     {
       "name": "dyad",
@@ -257,21 +231,8 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 22465,
-      "growth": 133
-    },
-    {
-      "name": "L1B3RT4S",
-      "url": "https://github.com/elder-plinius/L1B3RT4S",
-      "category": "AI 工具",
-      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
-      "tags": [
-        "1337",
-        "adversarial attacks",
-        "ai"
-      ],
-      "stars": 23552,
-      "growth": 128
+      "stars": 22471,
+      "growth": 130
     },
     {
       "name": "repomix",
@@ -283,8 +244,47 @@
         "anthropic",
         "artificial intelligence"
       ],
-      "stars": 29468,
-      "growth": 119
+      "stars": 29485,
+      "growth": 127
+    },
+    {
+      "name": "L1B3RT4S",
+      "url": "https://github.com/elder-plinius/L1B3RT4S",
+      "category": "AI 工具",
+      "description": "TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DI…",
+      "tags": [
+        "1337",
+        "adversarial attacks",
+        "ai"
+      ],
+      "stars": 23565,
+      "growth": 123
+    },
+    {
+      "name": "marimo",
+      "url": "https://github.com/marimo-team/marimo",
+      "category": "AI 工具",
+      "description": "A reactive notebook for Python — run reproducible experiments, query with…",
+      "tags": [
+        "artificial intelligence",
+        "dag",
+        "data science"
+      ],
+      "stars": 23781,
+      "growth": 120
+    },
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "category": "生成式媒体",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build …",
+      "tags": [
+        "agentic ai",
+        "agents",
+        "ai"
+      ],
+      "stars": 188216,
+      "growth": 94
     },
     {
       "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
@@ -296,21 +296,21 @@
         "artificial intelligence projects",
         "awesome"
       ],
-      "stars": 37913,
-      "growth": 93
+      "stars": 37921,
+      "growth": 89
     },
     {
-      "name": "awesome-ai-agents",
-      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "name": "rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
       "category": "开发框架",
-      "description": "A list of AI autonomous agents",
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "tags": [
         "agent",
         "ai",
         "artificial intelligence"
       ],
-      "stars": 31089,
-      "growth": 91
+      "stars": 9296,
+      "growth": 89
     }
   ]
 }
